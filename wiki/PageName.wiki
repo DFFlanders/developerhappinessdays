@@ -1,6 +1,0 @@
-#summary Awards Criteria, Judging Process and Prize Conditions for dev8D
-#labels dev8d,prizes
-
-Competitions and Prizes up for grabs at dev8D:
-  # [http://docs.google.com/View?docID=dfccf5n6_225cng53tmz&revision=_latest#The_Developer_Decathlon Developer Decathlon]
-  # [http://docs.google.com/View?docID=dfccf5n6_225cng53tmz&revision=_latest#Individual_Medley Individual_Medley]
