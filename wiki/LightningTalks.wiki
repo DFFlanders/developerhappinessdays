@@ -1,4 +1,4 @@
-#Give a 5-15 minutes pitch on something you think worthwhile for dev use
+Give a 5-15 minutes pitch on something you think worthwhile for dev use
 
 = Introduction =
 
@@ -7,6 +7,6 @@ Lightning talks will take place after lunch on Tuesday (10th) and all day Wednes
 = Sign-up Here =
 
 If you are interested in giving a lightning talk please put your name below along with how long you'll need (we'll also provide 5 minutes for Q&A).
-  * ** by _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * *Practical Project Management* by _Chris Gutteridge_
+  * *TITLE OF TALK* by _PERSON TALKING_
+  * *TITLE OF TALK* by _PERSON TALKING_
