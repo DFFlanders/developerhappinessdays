@@ -1,4 +1,4 @@
-#summary cutting edge repository projects DSpace, EPrints, Fedora & Microsoft.
+#summary The cutting edge of repository projects (DSpace, EPrints, Fedora & Microsoft).
 
 = Introduction =
 
