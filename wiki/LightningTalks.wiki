@@ -11,7 +11,7 @@ If you are interested in giving a lightning talk please put your name below alon
   * *jQuery* by _Jim Downing_ (15min)
   * *Agile Development* by _Grahame Klyne_ (15min)
   * *CSS for developers* by _Nick Cato_ (25 min)
-  * *Blackboard APIs* by _George Krooner_ (20 min)
+  * *Blackboard APIs* by _George Kroner_ (20 min)
   * *SOLR* by _Ben O'Steen_ (25 min)
   * *Django* by _Brian Jinwright_ (25 min)
   * *Paper Prototyping* by _Mark van Harmelan_ (25 min)
