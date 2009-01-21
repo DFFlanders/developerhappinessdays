@@ -15,6 +15,7 @@ If you are interested in giving a lightning talk please put your name below alon
   * *SOLR* by _Ben O'Steen_ (25 min)
   * *Django* by _Brian Jinwright_ (25 min)
   * *Paper Prototyping* by _Mark van Harmelan_ (25 min)
+  * *Getting beyond PDF* by _Peter Sefton_ (20 min)
 
 
 
