@@ -1,0 +1,19 @@
+#summary cutting edge repository projects DSpace, EPrints, Fedora & Microsoft.
+
+= Introduction =
+
+The Repository Summit is intended for any and all who want to know the latest in repository developments.  Lead developers from DSpace, EPrints, Fedora and Microsoft will be on had to update you on their cutting edge technology.
+
+In the afternoon developer will be on hand to work with anyone one-on-one in getting their code launched.
+
+
+= Schedule =
+
+  * 10am Welcome and Housekeeping (please arrive early if you need a wifi key):
+  * 10.00-10.45: Duraspace Low Level Storage Architecture by Chris Wilper
+  * 10.45-11.30: Chem4Word by Jim Downing
+  * 11:30-12:00: REF by Les Carr
+  * 12.00-13.00: Microsoft Repository by Savas Partidas
+  * 13.00-14:00: LUNCH
+  * 14.00-16.30: OPEN HACKING SESSION: Each of the above developers will occupy a room where anyone can go to get hands on help with launching and using their various software.
+  * 16.30-onwards: Drinks in the George Birkbeck Bar on the 4th Floor
