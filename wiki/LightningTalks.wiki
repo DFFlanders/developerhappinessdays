@@ -16,6 +16,7 @@ If you are interested in giving a lightning talk please put your name below alon
   * *Django* by _Brian Jinwright_ (25 min)
   * *Paper Prototyping* by _Mark van Harmelan_ (25 min)
   * *Getting beyond PDF* by _Peter Sefton_ (20 min)
+  * *Open Source Software Communities and Why They Rule!* by _Ross Gardler_ (15 min)
 
 
 
