@@ -2,22 +2,29 @@
 
 = Introduction =
 
+*What is a lightning talk?* = "lightning" refers to 2 things: a.) eye opening, as in a "lightning bolt to the brain", and b.) ideas that are quick and to the point.
+ 
 Lightning talks will take place after lunch on Tuesday (10th) and all day Wednesday (11th).  If you would like to give a talk please sign up below.  We'll have a data projector and whiteboard on hand for any visual aids, though you only need to bring your brightest ideas.
 
 = Sign-up Here =
 
-If you are interested in giving a lightning talk please put your name below along with how long you'll need and which day you prefer to give the pitch (we'll also add on 5 minutes for Q&A).
-  * *Practical Project Management* by _Chris Gutteridge_ (20min)
-  * *jQuery* by _Jim Downing_ (15min)
+If you are interested in giving a lightning talk please put your name below along with how long you'll need and which day you prefer to give the talk.  We'll assign times closer to the day so keep checking back.
+
+== Tuesday Afternoon (10th) ==
   * *Agile Development* by _Grahame Klyne_ (15min)
-  * *CSS for developers* by _Nick Cato_ (25 min)
-  * *Blackboard APIs* by _George Kroner_ (20 min)
-  * *SOLR* by _Ben O'Steen_ (25 min)
-  * *Django* by _Brian Jinwright_ (25 min)
   * *Paper Prototyping* by _Mark van Harmelan_ (25 min)
+  * *Practical Project Management* by _Chris Gutteridge_ (20min)
   * *Getting beyond PDF* by _Peter Sefton_ (20 min)
   * *Open Source Software Communities and Why They Rule!* by _Ross Gardler_ (15 min)
 
+  * *TITLE OF TALK* by _nameOfPerson_ (number of minutes for talk)
 
+== Wednesday All Day (11th) ==
+
+  * *CSS for developers* by _Nick Cato_ (25 min)
+  * *jQuery* by _Jim Downing_ (15min)
+  * *Blackboard APIs* by _George Kroner_ (20 min)
+  * *SOLR* by _Ben O'Steen_ (25 min)
+  * *Django* by _Brian Jinwright_ (25 min)
 
   * *TITLE OF TALK* by _nameOfPerson_ (number of minutes for talk)
