@@ -1,0 +1,13 @@
+#summary a workshop for those who would like to mashup data without having to code!
+
+= Introduction =
+
+"Mashups for Muppets (and Managers)" is a half day course for those of you who regularly work with developers or even have dreams of coding one day yourself.  This workshop will give you same basic principles to work by and will even get you started on your own data mashups using a spreadsheet (yes developing is this easy).  By the end of this course, you'll feel like the web is your oyster with pearls of data for the taking!  
+
+
+= Outline =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
