@@ -32,5 +32,6 @@ If you are interested in giving a lightning talk please put your name below alon
   * *Django* by _Brian Jinwright_ (25 min)
   * *Apache Shindig* by _Ian Boston_ (15 min)
   * *Transcoding Learning Objects* by _Ian Ibbotson_ (10min)
+  * *Semantic Web Apps* by _Julian Higman_ (20min)
 
   * *TITLE OF TALK* by _nameOfPerson_ (number of minutes for talk)
