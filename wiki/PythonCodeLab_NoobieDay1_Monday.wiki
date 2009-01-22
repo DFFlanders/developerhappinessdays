@@ -7,10 +7,14 @@ This day long workshop is for anyone who wants a crash course on Python.  It wil
 = Schedule =
 
 10:00-11:00 Setting up your environment (Ubuntu, Python) 
+
 11:30-13:00 Developing with Python
   * Unit Tests by Peter
   * Unicode by Rob 
   * Python 2.x vs Python 3.x by all (Panel Dicussion)
+
+13.00-14.00 LUNCH
+
 14.00-16.30 Frameworks and Tools
   * Django by Brian
   * Data Mining by Ben
