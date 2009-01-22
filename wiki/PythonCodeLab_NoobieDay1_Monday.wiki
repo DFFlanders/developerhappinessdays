@@ -18,4 +18,4 @@ This day long workshop is for anyone who wants a crash course on Python.  It wil
 14.00-16.30 Frameworks and Tools
   * Django by Brian
   * Data Mining by Rob
-  * Web Services be Ben
+  * Web Services by Ben
