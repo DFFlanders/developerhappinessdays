@@ -1,4 +1,4 @@
-#summary a workshop for those who would like to mashup data without having to code!
+#summary a workshop for those who would like to mashup data without having to code.
 
 = Introduction =
 
