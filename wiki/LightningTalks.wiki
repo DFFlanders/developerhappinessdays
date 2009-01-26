@@ -1,4 +1,5 @@
 #summary Sign up here to give a 5-25 minutes pitch on something you think worthwhile for dev use
+#labels Tues,Wed
 
 = Introduction =
 
