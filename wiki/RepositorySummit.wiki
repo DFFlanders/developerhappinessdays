@@ -1,0 +1,37 @@
+#summary The cutting edge of repository projects (DSpace, EPrints, Fedora & Microsoft).
+#labels Friday
+
+= Repository Summit Description =
+
+The Repository Summit is intended for any and all who want to know the latest in repository (digital library) software developments.  Lead developers from DSpace, EPrints, Fedora and Microsoft will be on had to update you on the cutting edge of repository software.
+
+In the afternoon developers will be on hand to work with anyone one-on-one in getting their code launched.
+
+
+= Schedule =
+
+  * 9am Welcome and Housekeeping (please arrive early if you need a wifi key):
+  * 9.00-10.00: Fedora Commons by Chris Wilper, Eddie Shin and Matt Zumwalt
+  * 10.00-11.00: DSpace by Brad McClean, Mark Diggory and Jim Downing
+  * 11:00-12:00: EPrints by Les Carr and Simon Coles
+  * 12.00-13.00: Microsoft Repository by Savas Partidas and Alex Wade
+  * 13.00-14:00: LUNCH
+  * 14.00-17.00: Repository Surgery: Each of the above developers will occupy a room where anyone can go to get hands on help with launching and using the various repositories.
+    *Room 
+  * 17.00-onwards: Drinks in the George Birkbeck Bar on the 4th Floor.
+
+=Sign-up for event=
+If you are coming to this event please put your name below:
+  # David F. Flanders
+  # Mark Hedges
+  # Les Carr
+  # Chris Wilper
+  # Eddie Shin
+  # Matt Zumwalt
+  # Brad McClean
+  # Mark Diggory
+  # Jim Downing
+  # Savas Partidas
+  # Alex Wade
+  # put name here...
+  
