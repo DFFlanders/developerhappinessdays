@@ -3,13 +3,14 @@
 
 = What is the Developer Decathlon? =
 
-The Developer Decathlon is a two day event that enables developers to come together face to face to do rapid prototyping of software ideas.  The emphasis is upon 'rapid' and final prototypes do not have to be working code, but rather must show the interface as it would appear to the user (you should also explain how that interface has/will be achieved via the technological plumbing).  
+The Developer Decathlon is a competition at dev8D that enables developers to come together face-to-face to do rapid prototyping of software ideas.  The emphasis is upon 'rapid' and final prototypes do not have to be working code, but rather must show the interface as it would appear to the user (note: you should also explain how that interface has/will be achieved via the technological plumbing).  
 
-The amount of time allotted for the competition is a two week sprint, eg at the end of the two weeks, you should show what you have regardless of finished state.  Accordingly, the first two days of the decathlon are there to help identify the user problem, design a basic interface and divide the work up amongst your team.  We help facilitate this by providing both users and advice on how to run these rapid prototyping projects.  
+The amount of time allotted for the competition is a two week sprint, eg at the end of the two weeks, you should show what you have regardless of finished state.  Accordingly, the first two days of the decathlon are there to help identify the user problem, design a basic interface and divide the work up amongst your team.  We help facilitate this at dev8D by providing both 'real users' and 'expert advice' on how to run these rapid prototyping sprints.  
 
 *[http://docs.google.com/View?docID=dfccf5n6_225cng53tmz&revision=_latest#The_Developer_Decathlon Official rules and entry procedure are posted here.]*
 
-Below is a suggested mock-timeline for completing your prototype entry.
+= How you might compete in the decathlon =
+Below is a suggested mock-timeline for completing your prototype competition entry.
 
   * *Day 0 (Mon Feb 9)* Attend dev8D opening ceremony and meet other cool developers to join your team.
   * *Day 1 (Tues Feb 10)* Create some paper prototypes of app by speaking with real users at dev8D and see if they have any good ideas (or rather tell them your good ideas and get them to help you refine them), also attend LightningTalks to get good ideas that will you help create your prototypes.
@@ -21,12 +22,6 @@ Below is a suggested mock-timeline for completing your prototype entry.
   * *Day 7 (Mon Feb 16)* Back at work, catch up on email.
   * *Day 8 (Tues Feb 17)* Bring together final bits of work from other team members.
   * *Day 9 (Wed Feb 18)* Record screencast using software like Jing or other and upload to video site like blip.tv 
-  * *Day 10 (Thurs Feb 19)* prepare email entry and send off to developerhappinessdays@gmail.com 
+  * *Day 10 (Thurs Feb 19)* prepare email entry and send off to developerhappinessdays@gmail.com by midnight tonight.
 
-
-= Day 1 : Real Users and Doing Sprints =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+*[http://docs.google.com/View?docID=dfccf5n6_225cng53tmz&revision=_latest#The_Developer_Decathlon Official rules and entry procedure are posted here.]*
