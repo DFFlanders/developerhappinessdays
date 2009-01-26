@@ -14,7 +14,7 @@ If you are interested in giving a lightning talk please put your name below alon
   * *Agile Development* by _Grahame Klyne_ (15min)
   * *Paper Prototyping* by _Mark van Harmelan_ (25 min)
   * *Practical Project Management* by _Chris Gutteridge_ (20min)
-  * *Open Source Software Communities and Why They Rule!* by _Ross Gardler_ (15 min)
+  * *Open Source Software Communities and Why They Will Rule The World!* by _Ross Gardler_ (15 min)
   * *Sharing Data - what museums have to offer, and what we can learn* by _Mia Ridge_ (15min)
   * *Why Collective Intelligence" by _Tony Hurst_ (15min)
 
