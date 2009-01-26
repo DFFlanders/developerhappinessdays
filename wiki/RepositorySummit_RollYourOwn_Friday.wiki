@@ -1,4 +1,5 @@
 #summary The cutting edge of repository projects (DSpace, EPrints, Fedora & Microsoft).
+#labels CRIG,repository,rollyourown
 
 = Repository Summit Description =
 
@@ -20,7 +21,7 @@ In the afternoon developers will be on hand to work with anyone one-on-one in ge
   * 17.00-onwards: Drinks in the George Birkbeck Bar on the 4th Floor.
 
 =Sign-up for event=
-If you are coming to this event please put your name below along with any information you are looking for:
+If you are coming to this event please put your name below:
   # David F. Flanders
   # Mark Hedges
   # Les Carr
@@ -32,4 +33,5 @@ If you are coming to this event please put your name below along with any inform
   # Jim Downing
   # Savas Partidas
   # Alex Wade
+  # put name here...
   
