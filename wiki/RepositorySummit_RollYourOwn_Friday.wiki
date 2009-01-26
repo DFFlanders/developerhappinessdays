@@ -1,5 +1,5 @@
 #summary The cutting edge of repository projects (DSpace, EPrints, Fedora & Microsoft).
-#labels Friday
+#labels Fri
 
 = Repository Summit Description =
 
