@@ -19,3 +19,6 @@ This day long workshop is for anyone who wants a crash course on Python.  It wil
   * Django by Brian
   * Data Mining by Rob
   * Web Services by Ben
+
+= Related Links =
+  * [http://www.appenginelearn.com/chapters/toc.htm Pre Print of O'Reilly Google App Engine Book - Python/Django] (on loan from the author Dr. Chuck Severance)
