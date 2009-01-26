@@ -1,5 +1,5 @@
 #summary The cutting edge of repository projects (DSpace, EPrints, Fedora & Microsoft).
-#labels CRIG,repository,rollyourown
+#labels Friday
 
 = Repository Summit Description =
 
