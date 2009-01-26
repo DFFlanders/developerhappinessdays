@@ -1,0 +1,14 @@
+#summary explanation of what the "developer decathlon days" are
+#labels decathlon,developer
+
+= What is the Developer Decathlon? =
+
+Explanation of Decathlon here
+
+
+= Details of the Decathlon=
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
