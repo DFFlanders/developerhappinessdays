@@ -5,7 +5,7 @@
 
 The Developer Decathlon is a competition at dev8D that enables developers to come together face-to-face to do rapid prototyping of software ideas.  The emphasis is upon 'rapid' and final prototypes do not have to be working code, but rather must show the interface as it would appear to the user (note: you should also explain how that interface has/will be achieved via the technological plumbing).  
 
-The amount of time allotted for the competition is a two week sprint, eg at the end of the two weeks, you should show what you have regardless of finished state.  Accordingly, the first two days of the decathlon are there to help identify the user problem, design a basic interface and divide the work up amongst your team.  We help facilitate this at dev8D by providing both 'real users' and 'expert advice' on how to run these rapid prototyping sprints.  
+The amount of time allotted for the competition is a ten day sprint, i.e. at the end of the ten days, you should show what you have regardless of finished state as prizes will be given on potential as well as completeness.  Accordingly, the first main two days of the decathlon are there to help identify the user problem, design a basic interface and divide the work up amongst your team.  We help facilitate this at dev8D by providing both 'real users' and 'expert advice' on how to run these rapid prototyping sprints.  
 
 *[http://docs.google.com/View?docID=dfccf5n6_225cng53tmz&revision=_latest#The_Developer_Decathlon Official prizes, rules and entry procedure are posted here.]*
 
