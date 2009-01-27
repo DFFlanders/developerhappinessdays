@@ -1,9 +1,9 @@
 #summary Sign up here to give a 5-25 minutes pitch on something you think worthwhile for dev use
-#labels Tues,Wed
+#labels Tuesday,Wednesday
 
 = Introduction =
 
-*What is a lightning talk?* = "lightning" refers to 2 things: a.) eye opening, as in a "lightning bolt to the brain", and b.) ideas that are quick and to the point.
+*What is a lightning talk?* = "lightning" refers to two things: a.) eye opening, as in a "lightning bolt to the brain", and b.) ideas that are quick and to the point.
  
 Lightning talks will take place after lunch on Tuesday (10th) and all day Wednesday (11th).  If you would like to give a talk please sign up below.  We'll have a data projector and whiteboard on hand for any visual aids, though you only need to bring your brightest ideas.
 
