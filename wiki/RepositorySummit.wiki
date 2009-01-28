@@ -33,5 +33,6 @@ If you are coming to this event please put your name below:
   # Jim Downing
   # Savas Partidas
   # Alex Wade
+  # John Robertson
   # put name here...
   
