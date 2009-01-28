@@ -1,5 +1,5 @@
 #summary explanation of what the "developer decathlon days" are
-#labels Tues,Wed
+#labels Tuesday,Wednesday
 
 = What is the Developer Decathlon? =
 
