@@ -17,7 +17,7 @@ This day long workshop is for anyone who wants a crash course on Python.  It wil
 13.00-14.00 LUNCH
 
 14.00-16.30 Frameworks and Tools
-  * Django and GAE by Brian
+  * DjangoGAE by Brian
   * Data Mining by Rob
   * Web Services by Ben
 
