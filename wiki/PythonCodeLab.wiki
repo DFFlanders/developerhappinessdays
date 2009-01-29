@@ -10,7 +10,8 @@ This day long workshop is for anyone who wants a crash course on Python.  It wil
 10:00-11:00 Setting up your environment (Ubuntu, Python) 
 
 11:30-13:00 Developing with Python
-  * Unit Tests by Peter
+  * Unit Tests by Peter: 
+    * Interactive session with comments by the panel and some group-inspired test-driven coding
   * Unicode by Rob 
   * Python 2.x vs Python 3.x by all (Panel Dicussion)
 
