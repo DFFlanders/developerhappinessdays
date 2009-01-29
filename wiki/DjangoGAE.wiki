@@ -1,0 +1,84 @@
+#summary One-sentence summary of this page.
+#labels Monday,Wednesday
+
+= Introduction =
+
+Add your content here.
+
+
+= Outline =
+
+Django/App Engine Presentation
+
+Why Django?
+  # Brief History
+    * Lawrence Journal-World & News
+    * Adrian Holovaty, Simon Willison, Jacob Kaplan-Moss
+    * Initial Purpose and Philosophy
+  # What makes Django appealing?
+    * Installation is Easy
+    * URL Patterns are Regular Expressions
+    * Free Admin Site (well practically free)
+    * Generic Views
+    * Template Engine (lots of filters and tags it is also extendable through template tags)
+    * Template Tags
+
+Why App Engine?
+  # Brief History
+  # What makes App Engine appealing?
+    * It is $free.99.
+    * No hassling with hardware
+    * No system administration
+    * Automatic scaling and load balancing
+    * Datastore (BigTable)
+    * Very similar to Django “out of the box”
+
+What are the limitations of using Django and GAE together?
+  # No Relational Databases (but there is the DataStore)
+  # Python Only
+  # No access to the file system
+  # Limit of 500 MB of Persistent Storage (in the Beta Period)
+  # 1MB File Size limit per file
+  # Models are different
+  # You cannot use httplib but you can use urlfetch (Google’s version)
+  # No Cron
+  # No non appspot.com SSL
+  # No “out of the box” support for the following (although the app-engine-patch project is working on them):
+    * Django/bin
+    * Django/contrib/admin
+    * Django/contrib/auth
+    * Django/contrib/databrowse
+    * Django/test
+    * Generic views
+
+What do I need to setup the dev environment?
+  # Python 2.5
+  # Google SDK
+  # Django 1.0 (or you could use the 0.96 version that comes with the SDK)
+  # App-engine-patch 
+  # Eclipse (optional)
+  # pyDev (optional)
+  # Web Tools Platform (WTP) – you can install this right from Ganymede (optional)
+
+Overview of Django’s Application Structure 
+  # Settings
+  # Models
+  # Views
+  # URLs
+  # Forms
+  # Views
+  # Cache
+  # Tests
+
+Ok, now let’s write some code!!
+  # Settings
+  # Models
+  # Views
+  # URLs
+  # Forms
+  # Views
+  # Cache
+  # Tests
+
+Questions & Answers
+
