@@ -9,7 +9,7 @@ The amount of time allotted for the competition is a ten day sprint, i.e. at the
 
 *[http://docs.google.com/View?docID=dfccf5n6_225cng53tmz&revision=_latest#The_Developer_Decathlon Official prizes, rules and entry procedure are posted here.]*
 
-= How you might compete in the decathlon =
+= How you might run the decathlon sprint=
 Below is a suggested mock-timeline for completing your prototype competition entry.
 
   * *Day 0 (Mon Feb 9)* Attend dev8D opening ceremony and meet other cool developers who will be helping you win the prize money!
