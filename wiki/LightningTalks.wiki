@@ -27,7 +27,7 @@ If you are interested in giving a lightning talk please put your name below alon
   * *CSS for developers* by _Nick Cato_ (25 min)
   * *jQuery* by _Jim Downing_ (15min)
   * *Getting beyond PDF* by _Peter Sefton_ (20 min)
-  * *A gentle way to learn XSLT* by _Peter Sefton_ (20 min)
+  * *3 chord XSLT* (like 3 chord Rock 'n' Roll but with angle brackets) by _Peter Sefton_ (20 min)
   * *Blackboard APIs* by _George Kroner_ (20 min)
   * *SOLR* by _Ben O'Steen_ (25 min)
   * *Sakai ReST APIs* _by Ian Boston_ (25 min)
