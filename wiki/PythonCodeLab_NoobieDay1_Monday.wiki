@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+
+== Unit testing (discussion led by ptsefton) ==
+* Interactive session with comments by the panel and some group-inspired test-driven coding
