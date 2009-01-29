@@ -1,4 +1,5 @@
 #summary Open networking room and camp base for developer teams working on developer decathlon prototypes
+#labels Wednesday,Thursday
 
 = Why a room for open networking, don't we have the Web for that? =
 
