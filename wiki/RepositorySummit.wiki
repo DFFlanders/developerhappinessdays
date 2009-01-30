@@ -35,5 +35,6 @@ If you are coming to this event please put your name below:
   # John Robertson
   # Simon Coles
   # Peter Sefton
+  # Tobias Wildi
   # put name here...
   
