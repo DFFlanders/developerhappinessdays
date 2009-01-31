@@ -1,12 +1,20 @@
-#summary One-sentence summary of this page.
+#summary use creativity + collaboration to beat the economic downturn!
 #labels Friday
 
 = Introduction =
 
-Add your content here.
+How can we use creativity + collaboration to beat the economic downturn?
+
+Hey, how's the recession going for you? Feeling the squeeze yet? If not, do you feel prepared for whatever may come?
+
+If you're old enough to remember the last recession, you know that we weren't lucky enough have many of the tools (Wikis, Twitter, Facebook, LinkedIn, Flickr, Delicious, etc.) or the communities that exist today. If you were on the street…you were on your own.
+
+Does this downturn have to play out like the last?
+
+If we can have a Web 2.0, why can't we have a Recession 2.0 — a collaborative effort to make this downturn different – better — than the last one? How can we band together as a community to survive and thrive until the next boom and beyond?
 
 
-= Details =
+= Event Schedule =
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
