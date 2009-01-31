@@ -32,3 +32,7 @@ Administration:
 Usability Experts (meta discussion on how best to get developers and users to communicate)
   * Caroline Bell (UX)
   * Mark Van Harmelen (UX)
+
+= Related Links =
+  * [http://www.paperprototyping.com/what.html What is paper prototyping?]
+  * [http://www.uie.com/articles/prototyping_tips/ 5 tips for paper prototyping]
