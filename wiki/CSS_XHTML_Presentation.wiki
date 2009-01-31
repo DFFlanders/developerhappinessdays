@@ -1,4 +1,5 @@
 #summary Outline and Description for the CSS and XHTML presentation on Monday.
+#labels Monday
 
 = Introduction =
 
@@ -45,4 +46,3 @@ CSS has been around for over a decade now, but how many times have you caught yo
  * Rollover Links
 
 *Conclusion*
-
