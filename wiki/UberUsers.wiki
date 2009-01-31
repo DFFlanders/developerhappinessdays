@@ -1,0 +1,34 @@
+#summary brainstorming session between users and developers to paper prototype new apps
+#labels Tuesday
+
+= What? =
+
+On Tuesday Feb 10th, developers and users will get together in small groups face-to-face to have a day of brainstorming and paper prototyping.  There will be 4 rooms with two uber  users in each room (representing a spectrum of higher education).  
+
+We'll also have a room for any of you not familiar with the concepts of paper prototyping to speak with usability experts (UXers).  
+
+= Why? =
+
+We are hoping that this day will help focus developers competing in the developer decathlon to focus in on real problems for users in higher education.  Though we would encourage any developers who already have their user cases to crack on with their decathlon entries (we have an open room (or rather bar) for those who wish to get hacking).  
+
+= The Real Users =
+
+Students:
+  * Mike Green (Part Time Certificate in Spanish)
+  * Nye Nduka (Undergraduate Student in Law)
+
+Researchers / Postgraduage
+  * Andrea Fiamberti (Masters Student in Engineering Management)
+  * Tom Morris (Doctoral Student in Philosophy)
+
+Lecturers:
+  * Dick Rayne (Lecturer in Biology)
+  * Nick Short (Lecturer in Veterinary Science)
+
+Administration:
+  * Leo Haverman (Learning Technologist)
+  * Elizabeth Charles (Librarian)
+
+Usability Experts (meta discussion on how best to get developers and users to communicate)
+  * Caroline Bell (UX)
+  * Mark Van Harmelen (UX)
