@@ -15,8 +15,9 @@ If we can have a Web 2.0, why can't we have a Recession 2.0 — a collaborative 
 
 
 = Event Schedule =
+Where: room REFERENCE: --> EM37207 (will post room soon)
 
-Add your content here.  Format your content with:
+Add your schedule here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
