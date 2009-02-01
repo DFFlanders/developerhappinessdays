@@ -1,0 +1,22 @@
+#summary Mon night entertainment at the Opening Ceremony, think Jerry Springer but with developers geek-freek-ing-out!
+#labels Monday
+
+= Talk Show Participants =
+
+Host: Paul Walk
+
+Debate Participants:
+  * Owen (Imperial)
+  * Matt (MediaShelf)
+  * Chewy (Google)
+  * Graham (Oxford)
+  * Ross (OSS Watch)
+  * George (Blackboard)
+
+= Items for Discussion =
+
+Do you have a topic you think needs to be be debated, then get it up here (or put it up in the comments below):
+  * The Cloud
+  * OpenID vs. Shibboleth
+  * HTML5 vs SemWebLight
+  * [add your debate topic here]...
