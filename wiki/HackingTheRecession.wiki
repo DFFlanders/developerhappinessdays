@@ -13,6 +13,7 @@ Does this downturn have to play out like the last?
 
 If we can have a Web 2.0, why can't we have a Recession 2.0 — a collaborative effort to make this downturn different – better — than the last one? How can we band together as a community to survive and thrive until the next boom and beyond?
 
+Read Dougald's blog entry [http://otherexcuses.blogspot.com/2009/01/social-media-vs-recession.html Social Media vs the Recession] for more context.
 
 = Event Schedule =
 Where: room REFERENCE: --> EM37207 (will post room soon)
@@ -27,5 +28,4 @@ Make sure you are registered to attend [http://dev8d.org Developer Happiness Day
   # [http://twitter.com/evangineer Mamading Ceesay (Instigator)]
 
 = Links =
- * [http://otherexcuses.blogspot.com/2009/01/social-media-vs-recession.html Social Media vs the Recession]
  * [http://amitgupta.com/blog/shoebox/2006/01/17/barcamp-nyc-its-over/ Nuts and Bolts of Organzing An Unconference]
