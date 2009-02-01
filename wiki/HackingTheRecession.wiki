@@ -1,7 +1,9 @@
 #summary use creativity + collaboration to beat the economic downturn!
 #labels Friday
 
-= Introduction =
+= Hacking The Recession =
+
+== Introduction ==
 
 How can we use creativity + collaboration to beat the economic downturn?
 
@@ -15,7 +17,7 @@ If we can have a Web 2.0, why can't we have a Recession 2.0 — a collaborative 
 
 Read Dougald's blog entry on [http://otherexcuses.blogspot.com/2009/01/social-media-vs-recession.html Social Media vs the Recession] for more context.
 
-= Event Schedule =
+== Event Schedule ==
  * When: Friday the 13th February 2009
  * Where: room REFERENCE: --> EM37207 (will post room soon)
 
@@ -24,11 +26,11 @@ Add your schedule here.  Format your content with:
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
 
-= Sign up to come (25 places only) =
+== Sign up to come (25 places only) ==
 Make sure you are registered to attend [http://dev8d.org Developer Happiness Days] on Friday and put your name down here:
   # [http://twitter.com/evangineer Mamading Ceesay (Instigator)]
 
-= Links =
+== Links ==
  * [http://amitgupta.com/blog/shoebox/2006/01/17/barcamp-nyc-its-over/ Nuts and Bolts of Organzing An Unconference]
  * [http://www.lambeth.gov.uk/Services/AdviceBenefits/CreditCrunchTaskforceReport.htm Lambeth Credit Crunch Taskforce Report] presents a top-down local authority-centric approach.
  * [http://blog.crossoverhealth.com/2009/01/27/cognitive-surplus-collective-intelligence-or-organizing-wisdom/ Cognitive Surplus - Collective Intelligence or Organized Wisdom]
