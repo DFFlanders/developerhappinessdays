@@ -36,3 +36,4 @@ Usability Experts in room 633 (meta discussion on how best to get developers and
 = Related Links =
   * [http://www.paperprototyping.com/what.html What is paper prototyping?]
   * [http://www.uie.com/articles/prototyping_tips/ 5 tips for paper prototyping]
+  * [http://www.140characters.com/2009/01/30/how-twitter-was-born/ how twitter was invented]
