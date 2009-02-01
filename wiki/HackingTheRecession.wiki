@@ -23,7 +23,7 @@ Add your schedule here.  Format your content with:
   * Automatic links to other wiki pages
 
 = Sign up to come (25 places only) =
-Make sure you are registered to attend [http://dev8d.org Developer Happiness Days] and put your name down here:
+Make sure you are registered to attend [http://dev8d.org Developer Happiness Days] on Friday and put your name down here:
   # [http://twitter.com/evangineer Mamading Ceesay (Instigator)]
 
 = Links =
