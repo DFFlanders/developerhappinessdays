@@ -7,7 +7,7 @@ The Dragon's Den will take place throughout Thursday to provide those competing 
 
 Judges Include:
   * Rachel Bruce will provide feedback on overall presentation
-  * Mark Van Harmelan will provide feedback on usability 
+  * Mark van Harmelen will provide feedback on scope, functionality and usability 
   * Dave Tarrant will provide feedback on technical implications 
 
 = Where? =
