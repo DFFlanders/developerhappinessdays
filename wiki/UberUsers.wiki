@@ -1,13 +1,13 @@
 #summary brainstorming session between users and developers to paper prototype new apps
 #labels Tuesday
 
-= What? =
+= What is an Uber User? =
 
 On Tuesday Feb 10th, developers and users will get together in small groups face-to-face to have a day of brainstorming and paper prototyping.  There will be 4 rooms with two uber  users in each room (representing a spectrum of higher education).  
 
 We'll also have a room for any of you not familiar with the concepts of paper prototyping to speak with usability experts (UXers).  
 
-= Why? =
+= Why do we need to know what users think? =
 
 We are hoping that this day will help focus developers competing in the developer decathlon to focus in on real problems for users in higher education.  Though we would encourage any developers who already have their user cases to crack on with their decathlon entries (we have an open room (or rather bar) for those who wish to get hacking).  
 
