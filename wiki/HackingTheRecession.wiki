@@ -22,8 +22,9 @@ Add your schedule here.  Format your content with:
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
 
-= Registration =
-[http://dev8d.org Register Here To Be Able To Attend]
+= Sign up to come (25 places only) =
+Make sure you are registered to attend [http://dev8d.org Developer Happiness Days] and put your name down here:
+  # [http://twitter.com/evangineer Mamading Ceesay (Instigator)]
 
 = Links =
  * [http://otherexcuses.blogspot.com/2009/01/social-media-vs-recession.html Social Media vs the Recession]
