@@ -7,7 +7,7 @@ Host: Paul Walk
 
 Debate Participants:
   * Owen (Imperial)
-  * Matt (MediaShelf)
+  * Matt (Media Shelf)
   * Chewy (Google)
   * Graham (Oxford)
   * Ross (OSS Watch)
