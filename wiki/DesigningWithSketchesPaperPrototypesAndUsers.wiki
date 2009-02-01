@@ -1,4 +1,4 @@
-#A short presentation on real world design methods at Developer Happiness 08.
+A short presentation on real world design methods at Developer Happiness 08.
 
 = Designing with sketches, paper prototypes and users =
 
