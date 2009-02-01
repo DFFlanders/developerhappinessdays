@@ -1,0 +1,23 @@
+#summary day for examining how smaller prototypes can fit within the larger context of established systems (VLE, OPAC, LMS, Repository, GoogleDocs, Skype, IM, etc).
+#labels Thursday
+
+= What =
+
+Add your content here.
+
+= Overall Schedule for the Day =
+
+||9am-10am Registration and CampBase set up (Lecture Theatre B35) ||
+
+||10am-1pm|| *VLE Community Meeting* (Room B04): _What does the VLE need to do so as to continue to grow and change in these times (e.g. Blackboard, Moodle, Sakai, Studeos, etc)_? ||*OPAC Community Meeting* (Room B02/03) _Library Catalogues are changing rapidly, this is an opportunity to discuss that change (e.g. Horizon, Koha, Talis, Greenstone, Vu Find, et al)_|| *Dragon's Den for Developer Decathlon* (B36): those competing can sign up to do a mock presentation of their prototype to the judges for further feedback and advice prior to submitting your final entry||
+
+||*LUNCH* from 1pm to 2pm (Rooms B04, B02/B03)||
+
+||2pm-4pm||*Repository Community Meeting* (Room B04): _As digital collections continue to expand where should content be archived and made openly accessible (e.g. ePrints, DSpace, Fedora et al)?_||*Collaborative Tools Community Meeting* (Room B02/B03) _Students and teachers are using online collaboration tools to do their work more than ever (eg. Google Docs, Media Wiki, Wordpress, IM, VoIP)_  || Sign-up for Dragon's Den closes at 3pm sign up at the Registration Desk in B35||
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
