@@ -1,13 +1,10 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+= Designing with sketches, paper prototypes and users =
 
-Add your content here.
+A short presentation on real world design methods at Developer Happiness 08.
 
+The design of systems soon descends into questions of system scope, functionality and user interface design. The perceptive will realise that these topics (and the given capabilities of the chosen delivery platform) are deeply inter-related. It is handy to have a way to decide on the triad of scope, functionality, and user interface, and to test these with potential users before any development is done.
 
-= Details =
+The use of various paper-based techniques that can be fruitfully combined with user design inputs and formative evaluation to drive further design is discussed in a rapid talk that is sometime presented as a five day hands-on course! However, half an hour will be enough to get the concepts across. 
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
