@@ -13,23 +13,23 @@ We are hoping that this day will help focus developers competing in the develope
 
 = The Real Users =
 
-Students:
+Students (room 624):
   * Mike Green (Part Time Certificate in Spanish)
   * Nye Nduka (Undergraduate Student in Law)
 
-Researchers / Postgraduage
+Researchers / Postgraduate (room 629)
   * Andrea Fiamberti (Masters Student in Engineering Management)
   * Tom Morris (Doctoral Student in Philosophy)
 
-Lecturers:
+Lecturers (room 630):
   * Dick Rayne (Lecturer in Biology)
   * Nick Short (Lecturer in Veterinary Science)
 
-Administration:
+Administration (room 631):
   * Leo Haverman (Learning Technologist)
   * Elizabeth Charles (Librarian)
 
-Usability Experts (meta discussion on how best to get developers and users to communicate)
+Usability Experts in room 633 (meta discussion on how best to get developers and users to communicate)
   * Caroline Bell (UX)
   * Mark Van Harmelen (UX)
 
