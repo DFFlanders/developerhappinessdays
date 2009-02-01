@@ -3,15 +3,18 @@
 
 = Why a room for open networking, don't we have the Web for that? =
 
-The open networking room is a place for people to come and have the 'water-cooler conversation', no schedules, no agenda, just you a cup of coffee and a chat with a fellow developer (after all, isn't this why we come to these events?).
+The open networking room (aka "Camp Base") is a place for people to come and have the 'water-cooler conversation', no schedules, no agenda, just you a cup of coffee and a chat with a fellow developer (after all, isn't this why we come to these events?).
 
-We'll also have work areas (base camps) for teams to work on their developer decathalon prototypes.  Feel free to stop by and check out their prototypes-in-progress and maybe even offer your nimble coding skillz (don't forget to pay any help via your dev8D tokens).
+We'll also have work areas set-up for teams to work on their developer decathalon prototypes.  We are trying to encourage pair-programming where possible.  Feel free to stop by and check out the prototypes-in-progress and maybe even offer your nimble coding skillz for bits of work (don't forget to pay any help via your dev8D tokens).
 
-= Team Base Camps =
+= Camp Base Map =
 
-For those who set up shop in base camp if you could add the name of your team to the wiki along with a short description of the prototype you are working on?  This is so others can come and offer their services and have a look over your shoulder (and maybe even offer some quick consultancy).
+For those who set up shop in Base Camp if you could add the name of your team to the wiki along with a short description of the prototype you are working on?  This is so others can come and offer their services and have a look over your shoulder (and maybe even offer some quick advice).
 
-Name of team.  Members in your team. Place in room where you are located.
+Please feel free to include any or all of the following:
+  * Name of team
+  * Members in your team
+  * Place in room where you are located
   * Name of prototype working on
   * Description of prototype
   * Problem this prototype addresses for the user.
