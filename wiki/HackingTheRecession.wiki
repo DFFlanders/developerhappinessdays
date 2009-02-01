@@ -22,4 +22,9 @@ Add your schedule here.  Format your content with:
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
 
+= Registration =
+[http://dev8d.org Register Here To Be Able To Attend]
+
 = Links =
+[http://otherexcuses.blogspot.com/2009/01/social-media-vs-recession.html Social Media vs the Recession]
+[http://amitgupta.com/blog/shoebox/2006/01/17/barcamp-nyc-its-over/ Nuts and Bolts of Organzing An Unconference]
