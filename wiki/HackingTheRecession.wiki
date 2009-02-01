@@ -16,8 +16,8 @@ If we can have a Web 2.0, why can't we have a Recession 2.0 — a collaborative 
 Read Dougald's blog entry on [http://otherexcuses.blogspot.com/2009/01/social-media-vs-recession.html Social Media vs the Recession] for more context.
 
 = Event Schedule =
-* When: Friday the 13th February 2009
-* Where: room REFERENCE: --> EM37207 (will post room soon)
+ * When: Friday the 13th February 2009
+ * Where: room REFERENCE: --> EM37207 (will post room soon)
 
 Add your schedule here.  Format your content with:
   * Text in *bold* or _italic_
