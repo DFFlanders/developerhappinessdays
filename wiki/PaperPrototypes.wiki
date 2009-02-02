@@ -1,4 +1,5 @@
 #summary presentation on real world design methods
+#labels Tuesday
 
 = Designing with sketches, paper prototypes and users =
 
