@@ -18,6 +18,7 @@ If you are interested in giving a lightning talk please put your name below alon
   * *Open Source Software Communities and Why They Will Rule The World!* by _Ross Gardler_ (15 min)
   * *Sharing Data - what museums have to offer, and what we can learn* by _Mia Ridge_ (15min)
   * *Why Collective Intelligence"* by _Tony Hurst_ (15min)
+  * [http://wiki.dspace.org/index.php/DSpace_2.0/Kernel Service Management with Spring and Guice and DSpace 2] by _Aaron Zeckoski_ (20 min)
 
 
   * *TITLE OF TALK* by _nameOfPerson_ (number of minutes for talk)
