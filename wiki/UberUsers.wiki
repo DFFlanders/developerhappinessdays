@@ -1,7 +1,9 @@
 #summary brainstorming session between users and developers to paper prototype new apps
 #labels Tuesday
 
-= What is an Uber User? =
+= What is an "uber-user" and what are we doing with them? =
+
+Uber User = "real user" but we've hand selected the tech savvy ones ;)
 
 On Tuesday Feb 10th, developers and real users will get together in small groups face-to-face to have a day of brainstorming and paper prototyping.  There will be 4 rooms with two "uber users" in each room (representing a spectrum of higher education use).  
 
