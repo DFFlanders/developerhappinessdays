@@ -29,7 +29,7 @@ Administration (room 631):
   * Leo Haverman (Learning Technologist)
   * Elizabeth Charles (Librarian)
 
-Usability Experts in room 633 (meta discussion on how best to get developers and users to communicate)
+Usability Experts (room 63) - meta discussion on how best to get developers and users to communicate
   * Caroline Bell (UX)
   * Mark Van Harmelen (UX)
 
