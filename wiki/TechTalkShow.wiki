@@ -22,4 +22,6 @@ Do you have a topic you think needs to be be debated, then get it up here (or pu
   * open standards vs. open source
   * hosted services - good or evil?
   * semantic web vs Semantic Web (or RDF - it'll never catch on)
+  * SOAP is spoiling my RESTlife
+  * Mom, I'm a geek
   * [add your debate topic here]...
