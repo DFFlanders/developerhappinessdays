@@ -30,6 +30,7 @@ Add your schedule here.  Format your content with:
 Make sure you are registered to attend [http://dev8d.org Developer Happiness Days] on Friday and put your name down here:
   # [http://twitter.com/evangineer Mamading Ceesay (Instigator)]
   # [http://twitter.com/hexayurt Vinay Gupta (Accomplice In Crime)]
+  # [http://twitter.com/jdaviescoates Josef Davies-Coates]
 
 == Links ==
  * [http://unsummit.org An US unconference on tech + biz + community] that I unahamedly borrowed much of the introductory text from with thanks.
