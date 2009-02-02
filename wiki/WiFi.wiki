@@ -1,0 +1,29 @@
+#summary instructions for how to set up WiFi on Birkbeck's Wireless
+#labels Monday,Tuesday,Wednesday,Thursday,Friday
+
+= Access Points =
+
+== BBK-WAM ==
+The "official" WiFi for the event is "BBK-WAM", however this wireless is a real pain to log onto if you are using Mac or Linux machines, so if you are using windows then it is doable so long as you keep pressing the "guest" tab (as in: if you havn't pressed the guest tab at least 5 times you will not get on).
+
+Instructions:
+  * college instructions here: http://www.bbk.ac.uk/its/services/wam/ 
+  * Our instructions:
+    # click on BBK-WAM
+    # open browser > load page > BBK default page will appear
+    # CLICK on "Guest Access" Tab > Follow instructions
+    # Username: 4823 / Password: david_Flanders <--case sensitive!
+    # The .exe it asks you to download is checking that you have SP2
+    # When it asks you to restart your browser watch your Wireless icon in your task bar to make sure that wifi is disconnected (you may need to turn your wireless card on and off)
+    # Once it reconnects to your card, you MUST once again click on the "Guest Access" tab.
+    # If you have too many problems give up and try one of the networks below!
+
+== Eduroam ==
+Yes we have eduroam, but again this is a real pain to set up but works well for Linux and Apple machines so it is worth the time setting this up prior to arriving.
+
+Instructions
+  *http://www.bbk.ac.uk/its/services/wam/jrs_overview  
+
+
+== dev8D ==
+These access points are the "unoffical" WiFi for the event, and we expect that you will be well behaved when using them.  
