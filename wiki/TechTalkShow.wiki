@@ -21,4 +21,5 @@ Do you have a topic you think needs to be be debated, then get it up here (or pu
   * HTML5 vs SemWebLight
   * open standards vs. open source
   * hosted services - good or evil?
+  * semantic web vs Semantic Web (or RDF - it'll never catch on)
   * [add your debate topic here]...
