@@ -19,4 +19,6 @@ Do you have a topic you think needs to be be debated, then get it up here (or pu
   * The Cloud
   * OpenID vs. Shibboleth
   * HTML5 vs SemWebLight
+  * open standards vs. open source
+  * hosted services - good or evil?
   * [add your debate topic here]...
