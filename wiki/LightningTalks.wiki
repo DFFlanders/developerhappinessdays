@@ -24,7 +24,7 @@ If you are interested in giving a lightning talk please put your name below alon
 
 == Wednesday All Day (11th) ==
 
-  * *CSS for developers* by _Nick Catto_ (25 min)
+  * *CSS for developers* by _Nick Catto_ (15 min)
   * *jQuery* by _Jim Downing_ (15min)
   * *Getting beyond PDF* by _Peter Sefton_ (20 min)
   * *3 chord XSLT* (like 3 chord Rock 'n' Roll but with angle brackets) by _Peter Sefton_ (20 min)
