@@ -24,4 +24,5 @@ Do you have a topic you think needs to be be debated, then get it up here (or pu
   * semantic web vs Semantic Web (or RDF - it'll never catch on)
   * SOAP is spoiling my RESTlife
   * Mom, I'm a geek
+  * Geeks on the screen - are there positive representations of geeks on film or tv?
   * [add your debate topic here]...
