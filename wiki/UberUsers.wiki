@@ -3,13 +3,13 @@
 
 = What is an Uber User? =
 
-On Tuesday Feb 10th, developers and users will get together in small groups face-to-face to have a day of brainstorming and paper prototyping.  There will be 4 rooms with two uber  users in each room (representing a spectrum of higher education).  
+On Tuesday Feb 10th, developers and real users will get together in small groups face-to-face to have a day of brainstorming and paper prototyping.  There will be 4 rooms with two "uber users" in each room (representing a spectrum of higher education use).  
 
 We'll also have a room for any of you not familiar with the concepts of paper prototyping to speak with usability experts (UXers).  
 
 = Why do we need to know what users think? =
 
-We are hoping that this day will help focus developers competing in the developer decathlon to focus in on real problems for users in higher education.  Though we would encourage any developers who already have their user cases to crack on with their decathlon entries (we have an open room (or rather bar) for those who wish to get hacking).  
+We are hoping that this day will help focus developers competing in the developer decathlon to focus in on real problems for users in higher education.  Though, we would encourage any developers who already have their use cases to crack on with their decathlon entries: we have an open room (or rather bar) for those who wish to get hacking.  
 
 = The Real Users =
 
@@ -29,7 +29,7 @@ Administration (room 631):
   * Leo Haverman (Learning Technologist)
   * Elizabeth Charles (Librarian)
 
-Usability Experts (room 63) - meta discussion on how best to get developers and users to communicate
+Usability Experts (room 633) - meta discussion on how best to get developers and users to communicate
   * Caroline Bell (UX)
   * Mark Van Harmelen (UX)
 
