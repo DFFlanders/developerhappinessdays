@@ -21,3 +21,8 @@ We'll probably be "making it up as we go along" on the day, but here's a rough p
  # Minute Madness
  # Freeform discussions (maybe driven by the topics covered in the Minute Madness?) 
  # Breakout into groups to look at the main topics of interest (moving between groups will be encouraged!)
+
+= Participants' OPACs = 
+
+ # [http://witcat.wit.ie/ Waterford Institute of Technology Library Catalogue] (David Kane)
+ # add your [http://opac.link.com/ OPAC link] and your name here...
