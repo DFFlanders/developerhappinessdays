@@ -45,4 +45,5 @@ If you are coming to this event please put your name below:
   # Dale Heenan
   # Mark Borkum
   # David Kane
+  # Stéphane Séchaud
   # [use your google account to log in and put name here
