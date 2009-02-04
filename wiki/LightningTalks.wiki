@@ -40,5 +40,6 @@ If you are interested in giving a lightning talk please put your name below alon
   * *My Adventures in Meta-Programming with Ruby* by _Matt Zumwalt_ (15min)
   * *Linked Data and how BBC is using DBpedia* by _Georgi Kobilarov_ (20min)
   * *Everything I meant to learn about regexps (but didn't get around to yet)*_by Chris Gutteridge_ (2 X 20min <-- special sessions, examples in Perl).
+  * *Future of Web Identity* by _David Orrell_ (20min)
 
   * *TITLE OF TALK* by _nameOfPerson_ (number of minutes for talk)
