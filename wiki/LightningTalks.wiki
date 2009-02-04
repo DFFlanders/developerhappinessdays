@@ -24,32 +24,22 @@ These talks will be taking place in room 629:
   * 16.00 - [http://wiki.dspace.org/index.php/DSpace_2.0/Kernel Service Management with Spring and Guice and DSpace 2] by _Aaron Zeckoski_ (20 min)
   * 16.30 - *Words have Power (or what the modern programmer has to learn from ancient Egyptian occultists)* _by Chris Gutteridge_ (10min)
 
-
-  * *TITLE OF TALK* by _nameOfPerson_ (number of minutes for talk)
-
 == Wednesday All Day (11th) ==
+
+We still have slots open for this day so if you feel so inspired please let us know if you'd like to give a talk.
 
 || Lecture Theatre B35 || Room B04 ||
 || 10.00 Explanation of submission process for Developer Decathlon Prize ||
 || 10.30 - *Getting beyond PDF* by _Peter Sefton_ (20 min) || 10.30 - *CSS for developers* by _Nick Catto_ (15 min) ||
-|| 11.00 - *Transcoding Learning Objects* by _Ian Ibbotson_ (10min) || *jQuery* by _Jim Downing_ (15min)||
-
-
-
-  * *Getting beyond PDF* by _Peter Sefton_ (20 min)
-  * *CSS for developers* by _Nick Catto_ (15 min)
-  * *Transcoding Learning Objects* by _Ian Ibbotson_ (10min)
-  * *jQuery* by _Jim Downing_ (15min)
-  * *3 chord XSLT* (like 3 chord Rock 'n' Roll but with angle brackets) by _Peter Sefton_ (20 min)
-  * *Linked Data and how BBC is using DBpedia* by _Georgi Kobilarov_ (20min)
-  * *SOLR* by _Ben O'Steen_ (25 min)
-  * *Future of Web Identity* by _David Orrell_ (20min)
-  * *Django* by _Brian Jinwright_ (25 min)
-  * *Apache Shindig* by _Ian Boston_ (15 min)
-  * *Blackboard APIs* by _George Kroner_ (20 min)
-  * *Sakai ReST APIs* _by Ian Boston_ (25 min)
-  * *Semantic Web Apps* by _Julian Higman_ (20min)
-  * *My Adventures in Meta-Programming with Ruby* by _Matt Zumwalt_ (15min)
-  * *Everything I meant to learn about regexps (but didn't get around to yet)*_by Chris Gutteridge_ (2 X 20min <-- special sessions, examples in Perl).
-
-  * *TITLE OF TALK* by _nameOfPerson_ (number of minutes for talk)
+|| 11.00 - *Transcoding Learning Objects* by _Ian Ibbotson_ (10min) || 11.00 - *jQuery* by _Jim Downing_ (15min)||
+|| 11.30 - *3 chord XSLT* (like 3 chord Rock 'n' Roll but with angle brackets) by _Peter Sefton_ (20 min) ||   * *Linked Data and how BBC is using DBpedia* by _Georgi Kobilarov_ (20min)||
+|| 12.00 - *SOLR* by _Ben O'Steen_ (25 min) || 12.00 - *Future of Web Identity* by _David Orrell_ (20min) ||
+|| 12.30 - *Django* by _Brian Jinwright_ (25 min) || 12.30 - *Blackboard APIs* by _George Kroner_ (20 min)||
+|| 13.00 - 14.00 LUNCH in B04/03/02 ||
+|| 14.00 - *Apache Shindig* by _Ian Boston_ (15 min) || 14.00*Sakai ReST APIs* _by Ian Boston_ (25 min)||
+|| 14.30 - *Semantic Web Apps* by _Julian Higman_ (20min) || 14.30 *My Adventures in Meta-Programming with Ruby* by _Matt Zumwalt_ (15min)||
+|| 15.00 *Everything I meant to learn about regexps (but didn't get around to yet)*_by Chris Gutteridge_ (2 X 20min <-- special sessions, examples in Perl). || 15.00 - SESSION STILL OPEN FOR SIGN UP ||
+|| 15.30 SESSION 2 from above || 15.30 - SESSION STILL OPEN FOR SIGN UP ||
+|| 16.00 SESSION STILL OPEN FOR SIGN UP || 16.00 - SESSION STILL OPEN FOR SIGN UP ||
+|| 16.30 SESSION STILL OPEN FOR SIGN UP || 16.30 - SESSION STILL OPEN FOR SIGN UP ||
+|| 15.00 END OF DAY <-- now on to the BowlCamp !!!||
