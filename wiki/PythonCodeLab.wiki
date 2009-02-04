@@ -24,3 +24,4 @@ This day long workshop is for anyone who wants a crash course on Python.  It wil
 
 = Related Links =
   * [http://www.appenginelearn.com/chapters/toc.htm Pre Print of O'Reilly Google App Engine Book - Python/Django] (on loan from the author Dr. Chuck Severance)
+  * http://docs.python.org/3.0/whatsnew/3.0.html
