@@ -1,4 +1,6 @@
+#summary community meeting to look at OPACs, library usage data, search engines, etc
 #labels opac,catalogues
+
 = What? =
 A gathering of anyone who's interested in OPACs (i.e. library catalouges), library usage data, and search technology in general (e.g. federated searching, relevancy ranking, etc).  Coders and non-coders are welcome!
 
