@@ -18,21 +18,9 @@ In the afternoon developers will be on hand to work with anyone one-on-one in ge
   * 13.00-14:00: LUNCH
   * 14.00-17.00: Repository Surgery: Each of the above developers will occupy a room where anyone can go to get hands on help with launching and using the various repositories.
     * EPrints Surgery (Room TBA)
-      * Project Slot 1 (sign up here)
-      * Project Slot 2 (sign up here)
-      * Project Slot 3 (sign up here)
     * DSpace Surgery (Room TBA)
-      * Project Slot 1 (sign up here)
-      * Project Slot 2 (sign up here)
-      * Project Slot 3 (sign up here)
     * Fedora Surgery (Room TBA)
-      * Project Slot 1 (sign up here)
-      * Project Slot 2 (sign up here)
-      * Project Slot 3 (sign up here)
     * Microsoft Surgery (Room TBA)
-      * Project Slot 1 (sign up here)
-      * Project Slot 2 (sign up here)
-      * Project Slot 3 (sign up here)
   * 17.00-onwards: Drinks in the George Birkbeck Bar on the 4th Floor.
 
 =Sign-up for event=
