@@ -30,7 +30,7 @@ This day long workshop is for anyone who wants a crash course on Python.  It wil
     Discovering hidden, interesting patterns in your data!  Practical focus on several tools that you can use.  Useful URLs:
     * http://www.csie.ntu.edu.tw/~cjlin/libsvm/
     * http://glaros.dtc.umn.edu/gkhome/cluto/cluto/download
-    * 
+    * http://fimi.cs.helsinki.fi/src/fimi01.tgz
 
   * Web Services by Ben
 
