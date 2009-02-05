@@ -1,5 +1,5 @@
 #summary a crash course for n00bs to Python
-#labels Monday
+#labels Monday,Python
 
 = Python Code Lab =
 
@@ -12,7 +12,14 @@ This day long workshop is for anyone who wants a crash course on Python.  It wil
 11:30-13:00 Developing with Python
   * Unit Tests by Peter: 
     * Interactive session with comments by the panel and some group-inspired test-driven coding
-  * Unicode by Rob 
+  * Unicode by Rob
+    Why everyone needs to be aware of unicode, and how Python can make your life much easier.  Useful URLs:
+    * http://chardet.feedparser.org
+    * http://docs.python.org/library/codecs.html
+    * http://www.atm.ox.ac.uk/user/iwi/charmap.html
+    * http://jtauber.com/2006/02/13/pyuca.py         PLUS:
+    * http://www.unicode.org/Public/UCA/latest/allkeys.txt
+ 
   * Python 2.x vs Python 3.x by all (Panel Dicussion)
 
 13.00-14.00 LUNCH
