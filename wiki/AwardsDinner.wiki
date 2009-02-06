@@ -118,16 +118,6 @@ IF YOU DID NOT RECEIVE CONFIRMATION OF YOUR RSVP PLEASE EMAIL D.FLANDERS@BBK.AC.
   # TBC
   # TBC
 
-
-
-
-
-
-
-
-
-
-
 = Developers Nominated for an Award =
 (in no particular order)
   * Mark Diggory
@@ -154,11 +144,3 @@ IF YOU DID NOT RECEIVE CONFIRMATION OF YOUR RSVP PLEASE EMAIL D.FLANDERS@BBK.AC.
   * Ben Hood
   * James Annesley
   * Nick Day
-
-
-
-
-
-= Developers Nominated for an Award =
-
-Please note we will be giving away nine awards, though all of these developers deserve your thanks and recognition for their hard work:
