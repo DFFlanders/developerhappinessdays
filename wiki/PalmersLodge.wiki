@@ -1,4 +1,5 @@
 #summary noticeboard page for those staying at Palmer's Lodge
+#labels Monday,Tuesday,Wednesday,Thursday
 
 = Room Assignments =
 
@@ -40,6 +41,8 @@ If you link your name through to your [http://code.google.com/p/developerhappine
 
 
 = Noticeboard for ongoings at Palmers Lodge=
+
+For any ad hoc ongoings, inspired hack sessions or impromptu barcamps at the pub in the basement please do let the rest of us know! 
 
 Please post any ongoings at Palmers Lodge here:
   * Text in *bold* or _italic_
