@@ -14,15 +14,13 @@ We'll have additional slots on the day for anyone who feels particularly moved t
 == Tuesday (10th) ==
 
 These talks will be taking place in room 629:
-  * 10.30 - *Agile Development* by _Grahame Klyne_ (15min)
-  * 11.00 - *Practical Web Programming (or how to survive a JISC project)* _by Chris Gutteridge_ (20 min)
-  * 11.30 - * [http://code.google.com/p/developerhappinessdays/wiki/PaperPrototypes Designing with Sketches, Paper Prototypes, and Users] * by _Mark van Harmelen_ (2 X 30min)
-  * 13.00 - LUNCH in George Birkbeck Bar on the 4th Floor
-  * 14.30 - *Open Source Software Communities and Why They Will Rule The World!* by _Ross Gardler_ (15 min)
-  * 15.00 - *Sharing Data - what museums have to offer, and what we can learn* by _Mia Ridge_ (15min)
-  * 15.30 - *Why Collective Intelligence"* by _Tony Hurst_ (15min)
-  * 16.00 - [http://wiki.dspace.org/index.php/DSpace_2.0/Kernel Service Management with Spring and Guice and DSpace 2] by _Aaron Zeckoski_ (20 min)
-  * 16.30 - *Words have Power (or what the modern programmer has to learn from ancient Egyptian occultists)* _by Chris Gutteridge_ (10min)
+  * *Agile Development* by _Grahame Klyne_ (20min)
+  * *Practical Web Programming (or how to survive a JISC project)* _by Chris Gutteridge_ (20 min)
+  * * [http://code.google.com/p/developerhappinessdays/wiki/PaperPrototypes Designing with Sketches, Paper Prototypes, and Users] * by _Mark van Harmelen_ (2 X 30min)
+  * *Open Source Software Communities and Why They Will Rule The World!* by _Ross Gardler_ (15 min)
+  * *Sharing Data - what museums have to offer, and what we can learn* by _Mia Ridge_ (15min)
+  * *Why Collective Intelligence"* by _Tony Hurst_ (15min)
+  * *Words have Power (or what the modern programmer has to learn from ancient Egyptian occultists)* _by Chris Gutteridge_ (10min)
 
 == Wednesday All Day (11th) ==
 
@@ -38,7 +36,7 @@ We still have slots open for this day so if you feel so inspired please let us k
 || 13.00 - 14.00 LUNCH in B04/03/02 ||
 || 14.00 - *Apache Shindig* by _Ian Boston_ (15 min) || 14.00*Sakai ReST APIs* _by Ian Boston_ (25 min)||
 || 14.30 - *Semantic Web Apps* by _Julian Higman_ (20min) || 14.30 *My Adventures in Meta-Programming with Ruby* by _Matt Zumwalt_ (15min)||
-|| 15.00 *Everything I meant to learn about regexps (but didn't get around to yet)*_by Chris Gutteridge_ (2 X 20min <-- special sessions, examples in Perl). || 15.00 - SESSION STILL OPEN FOR SIGN UP ||
+|| 15.00 *Everything I meant to learn about regexps (but didn't get around to yet)*_by Chris Gutteridge_ (2 X 20min <-- special sessions, examples in Perl). || 15.00 -   * [http://wiki.dspace.org/index.php/DSpace_2.0/Kernel Service Management with Spring and Guice and DSpace 2] by _Aaron Zeckoski_ (20 min) ||
 || 15.30 SESSION 2 from above || 15.30 - SESSION STILL OPEN FOR SIGN UP ||
 || 16.00 SESSION STILL OPEN FOR SIGN UP || 16.00 - SESSION STILL OPEN FOR SIGN UP ||
 || 16.30 SESSION STILL OPEN FOR SIGN UP || 16.30 - SESSION STILL OPEN FOR SIGN UP ||
