@@ -1,0 +1,46 @@
+#summary noticeboard page for those staying at Palmer's Lodge
+
+= Room Assignments =
+
+== Room A ==
+  # Brian Jinwright (mon-fri)
+  # Nicholas Catto (mon-fri)
+  # Adam Challis (mon-fri)
+  # Aaron Zeckoski (mon-fri)
+  # Yankui Feng (mon-fri)
+  # Kang Tang (mon-fri)
+  # Mark Diggory (mon -fri)
+  # Mark Borkum (mon - fri)
+  # Ian Ibbotson (mon - fri)
+  # Tiejun  Ma (mon-fri)
+  # Ross Gardler (mon-fri)
+  # Bradley McLean (mon-fri)
+
+
+== Room B ==
+  # Brian Kelly (mon)
+  # Chris Banks (mon-thurs)
+  # Sebastian Palucha (wed-fri)
+  # Frankie Roberto (wed - thurs)
+  # Roland Ukor (tues - thurs)
+  # Richard King (mon)
+  # Stephane Sechaud (mon -wed)
+  # Graham Klyne (tues - thurs)
+  # Kang Tang (mon-fri)
+  # John Harrison (mon-thurs)
+  # Ross McFarlane (mon-fri)
+  # Ben Bosman (mon-fri)
+  # Georgi Kobilarov (tues-thurs)
+
+== Room C ==
+  # Marieke Guy (mon)
+  # Juliette Culver (mon-fri)
+  # xin	xiong (mon - fri)
+
+
+= Noticeboard for ongoings at Palmers Lodge=
+
+Please post any ongoings at Palmers Lodge here:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
