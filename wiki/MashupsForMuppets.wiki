@@ -27,5 +27,5 @@ Likely to use Yahoo pipes, Google spreadsheets, a map or two, some RSS, some mor
 *Mashalong*
 - buildalong a mashup  - we'll walk through a mashup together, Gordon Ramsey cookalong style (I'll need a volunter up front, so bring your laptops in case your community needs YOU);
 
-(Freemash*
+*Freemash*
 - if there's time, have a tinker in groups or on your own, in a supportive ("what the **** are you DOING?"), help ("oh, for **** sake) environment... (Only joking...:-)
