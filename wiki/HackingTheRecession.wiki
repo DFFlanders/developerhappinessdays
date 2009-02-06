@@ -31,7 +31,7 @@ Make sure you are registered to attend [http://dev8d.org Developer Happiness Day
   # [http://twitter.com/evangineer Mamading Ceesay (Instigator)]
   # [http://twitter.com/hexayurt Vinay Gupta (Accomplice In Crime)]
   # [http://twitter.com/jdaviescoates Josef Davies-Coates]
-  # [http://twitter.com/priddy Mike Priddy]
+
 
 == Links ==
  * [http://unsummit.org An US unconference on tech + biz + community] that I unahamedly borrowed much of the introductory text from with thanks.
