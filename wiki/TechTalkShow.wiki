@@ -26,4 +26,5 @@ Do you have a topic you think needs to be be debated, then get it up here (or pu
   * Mom, I'm a geek
   * Geeks on the screen - are there positive representations of geeks on film or tv?
   * We don't need no education. Or do we? Does the UK education system do enough to support the development of geek skills, and does it need to?
+  * Which non-technical skills could geeks really benefit from some training in? (e.g. pitching ideas, documentation<ahem>, priority/time-management...?)
   * [add your debate topic here]...
