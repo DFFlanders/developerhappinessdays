@@ -27,7 +27,7 @@ Instructions:
 Yes we have eduroam, but again this is a real pain to set up but works well for Linux and Apple machines so it is worth the time setting this up prior to arriving.
 
 Instructions
-  *http://www.bbk.ac.uk/its/services/wam/jrs_overview  
+  * http://www.bbk.ac.uk/its/services/wam/jrs_overview  
 
 
 == dev8D ==
