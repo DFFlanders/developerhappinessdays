@@ -12,29 +12,129 @@ IF YOU DID NOT RECEIVE CONFIRMATION OF YOUR RSVP PLEASE EMAIL D.FLANDERS@BBK.AC.
 = Seating =
 
 Head Table
+  # Rachel Bruce (JISC)
+  # Les Carr (Southampton University)
+  # Jim Downing (Cambridge University)
+  # Ben O'Steen (Oxford University)
+  # Mark Hedges	(King's College London)
+  # Savas Parastatidis (Microsoft)
+  # Peter Sefton (University of Southern Queensland) 
+  # Paul Walk (UKOLN)
+  # George Kroner (Blackboard)
+  # Bradley McLean (DSpace Foundation)
+  # Andrew McGreggor (JISC)
+  # David F. Flanders (JISC)
 
-Honorary 
+==Honorary Guests:==
+  # Philip Payne (Birkbeck, University of London)
+  # Sarah Sherman (The Bloomsbury College)
+  # Abigail Deamer (London International Development Centre)
+  # Helen Matthews (Birkbeck, University of London)
+  # Caroline Bell (Royal Veterinary College) 
+  # Helen Lawrence (Birkbeck, University of London)
+  # Robert Atkinson	(Birkbeck, University of London)
+  # Rachael Rodenmayer (dev8D staff)
+  # Ed Lyon (dev8D staff)
+  # Praveen Kumar (dev8D staff)
 
-Table 1
-  #
-  #
-  #
-  #
-  #
-  #
-  #
+==Nominated Developers:==
+Ross McFarlane	(University of Liverpool)
+Julian Cheal (UKOLN)
+Dave Tarrant (University of Southampton)
 
-Table 2
+==Table 1:==
 
-Table 3
 
-Table 4
+==Table 2:==
 
-Table 5
+==Table 3:==
 
-Table 6
+==Table 4:==
 
-Table 7
+==Table 5:==
+
+==Table 6:==
+
+==Table 7:==
+  # Frankie Roberto (Rattle)
+  # Aaron Zeckoski (CARET, University of Cambridge)
+  # Mark van Harmelen (University of Manchester)
+  # Kang Tang (Oxford e-Research Centre)
+  # Alex Wade Microsoft Research
+  # Mia Ridge (Science Museum)
+  # R. John Robertson (CETIS/ University of Strathclyde)
+  # Balviar Notay (JISC)
+  # James Farnhill (JISC)
+  # Graham Triggs (Open Repository)
+  # Juliette Culver	(The Open University)
+  # Owen Stephens (Imperial College London)
+  # Simin Kamali (Middlesex University)
+  # Ian Ibbotson (Knowledge Integration Ltd)
+  # Andrew Wasilczuk (Darq Ltd.)
+  # Ross Gardler (OSS Watch)
+  # Xin Xiong (Oxford e-Research Centre)
+  # Mark Dewey (UKOLN)
+  # Stephen Vickers	(The University of Edinburgh)
+  # Peter Cliff (Oxford University Library Services)
+  # Roland Ukor (University of Manchester)
+  # Matt Zumwalt (MediaShelf)
+  # Edwin Shin (MediaShelf)
+  # Mark Diggory (DSpace Foundation)
+  # Sebastian Palucha Durham University
+  # Nicola Wilkinson (Loughborough University)*
+  # Andrew Williams	(Loughborough University)*
+  # Amber Thomas (JISC)
+  # Samia Oussena (TVU)
+  # James Orwell (Kingston University)
+  # Graham Alsop (Kingston University)
+  # Nick Catto (University of South Carolina Upstate)
+  # Marcus Ramsden (University of Southampton)
+  # Stephen Grace (King's College London)
+  # Alicia M. Campos (Kingston University)
+  # Yvonne Howard (University of Southampton)
+  # Alistair Willis	(Open University)
+  # James Croft
+  # Chris Banks (University of Manchester)
+  # David Kane (Waterford Institute of Technology)
+  # Ian Morrison (Darq Ltd)
+  # Sue Milne (ELandWeb Ltd)
+  # Andrew Wasilczuk (Darq Ltd)
+  # David Livingstone (Kingston University)
+  # James Annesley (Kingston University)
+  # Victoria Collins (ELandWeb)
+  # Nico Adams (University of Cambridge)
+  # Ali Khanban (Imperial College London)
+
+
+= Developers Nominated for an Award =
+(in no particular order)
+  * Mark Diggory
+  * Rob Sanderson
+  * Richard Jones
+  * Clare Llewellyn
+  * Jim Downing
+  * Stuart Lewis
+  * David Flanders
+  * Tony Hirst
+  * Mark Van Harmelen
+  * David Spence
+  * Paul Battley
+  * Stuart Lewis
+  * Nicola Wilkinson
+  * Matt Zumwalt
+  * Aaron Zeckoski
+  * Ben O'Steen
+  * David C Tarrant
+  * Tony Hirst
+  * Peter Sefton
+  * Dean Kramer
+  * Tim Donohue
+  * Ben Hood
+  * James Annesley
+  * Nick Day
+
+
+
 
 
 = Developers Nominated for an Award =
