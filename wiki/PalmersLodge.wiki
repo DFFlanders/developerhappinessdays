@@ -8,13 +8,13 @@
   # Adam Challis (mon-fri)
   # Aaron Zeckoski (mon-fri)
   # Yankui Feng (mon-fri)
-  # Kang Tang (mon-fri)
+  # Ross McFarlane (mon-fri)
   # Mark Diggory (mon -fri)
   # Mark Borkum (mon - fri)
   # Ian Ibbotson (mon - fri)
   # Tiejun  Ma (mon-fri)
   # Ross Gardler (mon-fri)
-  # Bradley McLean (mon-fri)
+  # Bradley Mclean (mon-fri)
 
 
 == Room B ==
@@ -28,7 +28,6 @@
   # Graham Klyne (tues - thurs)
   # Kang Tang (mon-fri)
   # John Harrison (mon-thurs)
-  # Ross McFarlane (mon-fri)
   # Ben Bosman (mon-fri)
   # Georgi Kobilarov (tues-thurs)
 
