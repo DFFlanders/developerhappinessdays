@@ -77,37 +77,42 @@ IF YOU DID NOT RECEIVE CONFIRMATION OF YOUR RSVP PLEASE EMAIL D.FLANDERS@BBK.AC.
   # Xin Xiong (Oxford e-Research Centre)
 
 
-==Table 7 (8)==
+==Table 7 (X8)==
   # Dave Tarrant (University of Southampton)
   # Peter Cliff (Oxford University Library Services)
   # Amber Thomas (JISC)
   # Ian Morrison (Darq Ltd)
   # David Livingstone (Kingston University)
+  # TBC
+  # TBC
+  # TBC
 
 ==Table 8 (X8)==
   # Aaron Zeckoski (CARET, University of Cambridge)
   # Kang Tang (Oxford e-Research Centre)
   # Mark Dewey (UKOLN)
-  # James Annesley (Kingston University)
   # Nick Catto (University of South Carolina Upstate)  
   # Sue Milne (ELandWeb Ltd)
-  # Frankie Roberto (Rattle)
+  # TBC
+  # TBC
+  # TBC
 
 
-==Table 9 (6+2)==
+==Table 9 (X8)==
   # Peter Sefton (University of Southern Queensland)
   # James Farnhill (JISC)
   # Sebastian Palucha (Durham University)
   # Graham Alsop (Kingston University)
   # Chris Banks (University of Manchester)
   # David Kane (Waterford Institute of Technology)
+  # TBC
+  # TBC
 
-
-==Table 10 (8)==
+==Table 10 (X8)==
   # Ian Ibbotson (Knowledge Integration Ltd)
   # Mia Ridge (Science Museum)
-  # TBC
-  # TBC
+  # James Annesley (Kingston University)
+  # Frankie Roberto (Rattle)
   # TBC
   # TBC
   # TBC
