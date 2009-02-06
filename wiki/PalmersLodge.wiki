@@ -57,11 +57,11 @@ http://www.palmerslodge.co.uk/findus.htm
 
 Some items to bring for hostel life:
 
-1.) towel
-2.) earplugs (if you are a light sleeper)
-3.) an extra pillow (only get one pillow per bed)
-5.) if you are tall (or get cold easy) a sleeping bag (a single duvet is provided)
-4.) soap, shampoo, etc.
+  * 1.) towel
+  * 2.) earplugs (if you are a light sleeper)
+  * 3.) an extra pillow (only get one pillow per bed)
+  * 5.) if you are tall (or get cold easy) a sleeping bag (a single duvet is provided)
+  * 4.) soap, shampoo, etc.
 
 * WiFi and Breakfast are included in your free accomodation
 * check out time is 11am
