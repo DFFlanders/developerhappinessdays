@@ -18,7 +18,7 @@ We'll have flipcharts, whiteboards and a projector on hand for any visual aids, 
 
 
 ==Tuesday Afternoon (10th)==
-*This is a repeat of morning talks will all take place in Room 629 (in case you missed a good'n), otherwise _it is expected that you will be getting on with your prototype for the DeveloperDecathlon_ in one of the other 6th floor rooms or in the CampBase.* 
+*This is a repeat of morning talks will all take place in Room 629 (in case you missed a good'n), otherwise _it is expected that you will be getting on with your prototype for the DeveloperDecathlon _ in one of the other 6th floor rooms or in the CampBase. 
   * 13.00 - *Practical Web Programming (or how to survive a JISC project)* _by Chris Gutteridge_ (20 min)
   * 13.30 - *Agile Development* by _Grahame Klyne_ (20min)
   * 14.00 - *Words have Power (or what the modern programmer has to learn from ancient Egyptian occultists)* _by Chris Gutteridge_ (10min)
