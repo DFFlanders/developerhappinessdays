@@ -20,7 +20,7 @@ Read Dougald's blog entry on [http://otherexcuses.blogspot.com/2009/01/social-me
 
 == Event Schedule ==
  * When: Friday the 13th February 2009
- * Where: room REFERENCE: --> EM37207 (will post room soon)
+ * Where: Room 633
 
 Tracks so far are looking like follows:
   # PHP hacking on [http://www.boonex.com/products/dolphin/ Dolphin] modules for the [http://otherexcuses.blogspot.com/2009/02/social-media-vs-recession-update.html Social Media vs the Recession] project 
@@ -28,7 +28,7 @@ Tracks so far are looking like follows:
   # Collaborate with other hackers on developing your own crunch-busting and/or social change ideas
 
 == Sign up to come (25 places only) ==
-Make sure you are registered to attend [http://dev8d.org Developer Happiness Days] on Friday and put your name down here:
+Make sure you are registered to attend [http://dev8d.org Developer Happiness Days] on Friday and put your name down here.  If you are only coming to this day then please just email developerhappinessdays@gmail.com to be added to the wiki (no need to sing up on the dev8D site if only attending this one day):
   # [http://twitter.com/evangineer Mamading Ceesay (Instigator)]
   # [http://twitter.com/hexayurt Vinay Gupta (Accomplice In Crime)]
   # [http://twitter.com/jdaviescoates Josef Davies-Coates]
