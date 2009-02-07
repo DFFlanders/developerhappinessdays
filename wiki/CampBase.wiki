@@ -10,20 +10,12 @@ We'll also have work areas set-up for teams to work on their developer decathalo
 The Camp Base will be in the following rooms each day:
   * Monday (9th) Room B04
   * Tuesday (10th) George Birkbeck Bar on 4th Floor
-  * Wednesday (11th) Room B04
+  * Wednesday (11th) Room B02/3 & B04
   * Thursday (12th) Lecture Theatre B35
   * Friday (13th) George Birkbeck Bar on 4th Floor
 
-= Camp Base Map =
+= Notice Board for CampBase =
 
-For those who set up shop in Base Camp if you could add the name of your team to the wiki along with a short description of the prototype you are working on?  This is so others can come and offer their services and have a look over your shoulder (and maybe even offer some quick advice).
+PLEASE FEEL FREE TO POST ANYTHING HERE REGARDING GOING ONS IN THE BASECAMP 
 
-Please feel free to include any or all of the following:
-  * Name of team
-  * Members in your team
-  * Place in room where you are located
-  * Name of prototype working on
-  * Description of prototype
-  * Problem this prototype addresses for the user.
-  * Tech you are working with to build it
-  * Interesting tidbit of info, etc.
+Though watch the [http://www.twitter.com/dev8D dev8D twitter feed] for real up to the date announcements.
