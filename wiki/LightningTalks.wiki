@@ -36,7 +36,7 @@
 
 We still have slots open for this day so if you have a LightningTalks to give then please speak with the registration desk to get signed up.
 
-|| *10am-10.30am in Lecture Theatre B33: Explanation of submission process for DeveloperDecathlon competition and Prizes_at_dev8D* ||
+|| *10am-10.30am in Lecture Theatre B33: Explanation of submission process for DeveloperDecathlon competition and [http://code.google.com/p/developerhappinessdays/wiki/Prizes_at_dev8D Prizes]* ||
 
 *_CampBase will be in room B02/03 and B04 throughout the day for those working on their DeveloperDecathlon prototypes._*
 
