@@ -2,6 +2,7 @@
 #labels Friday
 
 = Repository Summit Description =
+Location: Birkbeck Main Building (entrance off Torrington Square), Room 629
 
 The Repository Summit is intended for any and all who want to know the latest in repository (digital library) software developments.  Lead developers from DSpace, EPrints, Fedora and Microsoft will be on had to update you on the cutting edge of repository software.
 
