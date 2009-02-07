@@ -29,7 +29,7 @@ Repeat of morning talks will all take place in Room 629 (in case you missed a go
 
 == Wednesday All Day (11th) ==
 
-We still have slots open for this day so if you have a LightningTalk to give then please speak with the registration desk to get signed up.
+We still have slots open for this day so if you have a LightningTalks to give then please speak with the registration desk to get signed up.
 
 || *(Lecture Theatre B33) 10am-11am: Explanation of submission process for Developer Decathlon Competition and Prizes_at_dev8D* ||
 
