@@ -4,6 +4,8 @@
 = Two days of LightningTalks for the DeveloperDecathlon =
 
 *What is a lightning talk?* = "lightning" refers to two things: a.) eye opening, as in a "lightning bolt to the brain", and b.) ideas that are quick and to the point.
+
+*We hope the LightningTalks will inspire you to innovate a prototype for the DeveloperDecathlon !*
  
 We'll have flipcharts, whiteboards and a projector on hand for any visual aids, though you only need to bring your brightest ideas! 8D  
 
