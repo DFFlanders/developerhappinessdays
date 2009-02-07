@@ -1,16 +1,16 @@
-#summary day for examining how smaller prototypes can fit within the larger context of established systems (VLE, OPAC, LMS, Repository, GoogleDocs, Skype, IM, etc).
+#summary day for examining how smaller prototypes can fit within the larger context of established systems (VLE, OPAC, LMS, Repository, GoogleDocs, Skype, IM, email, etc).
 #labels Thursday
 
 = What? =
 
-The "Community Collaboration Day" is about developers coming together with the communities of the higher education systems they normally work within (VLE, OPAC, Repository and Communication tools).  The intention of the day is to enable developers and their communities to explore the possibilities of innovation (both from the perspective of technical and user integration).
+The "Community Collaboration Day" is about developers coming together with the communities of the higher education systems they normally work within: VLE, OPAC, Repository and Communication tools.  The intention of the day is to enable developers and their communities to explore the possibilities of innovation (both from the perspective of technical and user integration).
 
 = Who? =
 
-To help steer this community discussion, we've designated facilitators for each of the four sessions that will help provide an initial ice breaker session and then help designate smaller groups to work on community specific themes):
-  * VLE (Blackboard, Moodle, Sakai, Studeos, etc): Sarah Sherman (Head of the Bloomsbury Colleges shared VLE system)
-  * OPAC (Horizon, Koha, Talis, Greenstone, Vu Find, etc): Dave 
-  * Repository (ePrints, DSpace, Fedora, Microsoft, etc):
+To help steer this community discussion, we've designated facilitators for each of the four sessions that will help provide an initial ice breaker session; and, then help designate smaller groups to work on community specific themes:
+  * VLE (Blackboard, Moodle, Sakai, Studeos, etc): Sarah Sherman 
+  * OPAC (Horizon, Koha, Talis, Greenstone, Vu Find, etc): Dave Pattern
+  * Repository (ePrints, DSpace, Fedora, Microsoft, etc): Les Carr 
   * Communication Tools (GoogleDocs, Wikis, Blogs, IM, VoIP): Caroline Bell
 
 = Overall Schedule for the Day =
