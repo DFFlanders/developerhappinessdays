@@ -2,6 +2,7 @@
 #labels Friday
 
 = Hacking The Recession =
+Location: Birkbeck College (WC1E 7HX), entrance off Torrington Square.  Room 624.
 
 == Introduction ==
 
