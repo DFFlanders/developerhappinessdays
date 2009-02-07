@@ -32,7 +32,8 @@ Tracks so far are looking like follows:
   * 10.00-12.30: Break up into tracks and groups for hacking
   * 12.30-13.00: Touching base.
   * 13.00-14:00: LUNCH BREAK
-  * 14.00-17.00: More hacking
+  * 14.00-16.30: More hacking
+  * 16.30-17.00: Closing
   * 17.00-onwards: Finding a suitable watering hole and possibly some food.
 
 == Sign up to come (25 places only) ==
