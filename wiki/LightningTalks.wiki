@@ -34,7 +34,7 @@
 
 == Wednesday All Day (11th) ==
 
-We still have slots open for this day so if you have a LightningTalks to give then please speak with the registration desk to get signed up.
+We still have slots open for this day so if you have any LightningTalks to give then please speak with the registration desk to get signed up.
 
 || *10am-10.30am in Lecture Theatre B33: Explanation of submission process for DeveloperDecathlon competition and [http://code.google.com/p/developerhappinessdays/wiki/Prizes_at_dev8D Prizes]* ||
 
