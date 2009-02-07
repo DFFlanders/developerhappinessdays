@@ -18,6 +18,8 @@
   * Room 629 - *Why Collective Intelligence"* by _Tony Hurst_ (15min)
   * Room 624 - * [http://code.google.com/p/developerhappinessdays/wiki/PaperPrototypes Designing with Sketches, Paper Prototypes, and Users] * by _Mark van Harmelen_ (2 X 30min <-- This is a taught class for anyone who has never done paper prototyping before)
 
+*From 11am-1pm will be the UberUser sessions.*
+
 
 ==Tuesday Afternoon (10th)==
 *This is a repeat of morning talks will all take place in Room 629 (in case you missed a good'n), otherwise _it is expected that you will be getting on with your prototype for the DeveloperDecathlon _ in one of the other 6th floor rooms or in the CampBase.*
