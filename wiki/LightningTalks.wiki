@@ -23,7 +23,7 @@
 === Lunch will be served from 12.30 to 14.30 on a rolling basis ===
 
 ==Tuesday Afternoon (10th)==
-*This is a repeat of morning talks will all take place in Room 629 (in case you missed a good'n), otherwise _it is expected that you will be getting on with your prototype for the DeveloperDecathlon _ in one of the other 6th floor rooms or in the CampBase.*
+*This is a repeat of the morning talks.  All of them will be repeated in Room 629 (in case you missed a good'n), otherwise _it is expected that you will be getting on with your prototype for the DeveloperDecathlon _ in one of the other 6th floor rooms or in the CampBase.*
  
   * 13.30 - *Practical Web Programming (or how to survive a JISC project)* _by Chris Gutteridge_ (20 min)
   * 14.00 - *Agile Development* by _Grahame Klyne_ (20min)
