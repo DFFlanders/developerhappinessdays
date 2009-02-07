@@ -48,4 +48,8 @@ If you are coming to this event please put your name below:
   # Mark Borkum
   # David Kane
   # Stéphane Séchaud
-  # [use your google account to log in and put name here
+  # This event is now full...
+
+Waiting List:
+  # Put name and email here
+  # Put name and email here
