@@ -47,8 +47,8 @@ We still have slots open for this day so if you have a LightningTalks to give th
 
 || *14.00* - _Apache Shindig_ by Ian Boston (15 min) || *14.00* - _[http://wiki.dspace.org/index.php/DSpace_2.0/Kernel Service Management with Spring and Guice and DSpace 2]_ by Aaron Zeckoski (20 min) ||
 || *14.30* - _Semantic Web Apps_ by Julian Higman (20min) || *14.30* _My Adventures in Meta-Programming with Ruby_ by Matt Zumwalt (15min)||
-|| *15.00* _Everything I meant to learn about regexps (but didn't get around to yet)_ by Chris Gutteridge (2 X 20min <-- special sessions see below, examples in Perl). || *15.00* -  _Sakai ReST APIs_ by Ian Boston (25 min) ||
-|| *15.30* _Everything I meant to learn about regexps (but didn't get around to yet)_ by Chris Gutteridge (2 X 20min <-- special sessions see above, examples in Perl). || *15.30* -   _Sharing data: what museums have to offer, and what we can learn_ by _Mia Ridge_ (15min) ||
+|| *15.00* _Everything I meant to learn about regexps (but didn't get around to yet)_ by Chris Gutteridge (2 X 30min <-- special sessions see below, examples in Perl). || *15.00* -  _Sakai ReST APIs_ by Ian Boston (25 min) ||
+|| *15.30* _Everything I meant to learn about regexps (but didn't get around to yet)_ by Chris Gutteridge (2 X 30min <-- special sessions see above, examples in Perl). || *15.30* -   _Sharing data: what museums have to offer, and what we can learn_ by _Mia Ridge_ (15min) ||
 || *16.00* SESSION STILL OPEN FOR SIGN UP - SIGN UP IN COMMENTS SECTION BELOW || *16.00* - SESSION STILL OPEN FOR SIGN UP - SIGN UP IN COMMENTS SECTION BELOW ||
 || *16.30* SESSION STILL OPEN FOR SIGN UP - SIGN UP IN COMMENTS SECTION BELOW || *16.30* - SESSION STILL OPEN FOR SIGN UP - SIGN UP IN COMMENTS SECTION BELOW ||
 || *17.00 END OF DAY <-- now on to the BowlCamp !!!*||
