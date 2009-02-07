@@ -1,7 +1,7 @@
 #summary Sign up here to give a 5-25 minutes pitch on something you think worthwhile for dev use
 #labels Tuesday,Wednesday
 
-= Introduction =
+= Two days of LightningTalks for the DeveloperDecathlon =
 
 *What is a lightning talk?* = "lightning" refers to two things: a.) eye opening, as in a "lightning bolt to the brain", and b.) ideas that are quick and to the point.
  
