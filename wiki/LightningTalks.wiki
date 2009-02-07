@@ -8,7 +8,7 @@
 We'll have flipcharts, whiteboards and a projector on hand for any visual aids, though you only need to bring your brightest ideas! 8D  
 
 == Tuesday Morning (10th) ==
-Morning ice-breaker presentations: We've scheduled the first presentation for the morning session, after that you'll be expected to get up and engage your own ideas with the group (10am-11am):
+*Morning ice-breaker presentations*: We've scheduled the first presentation for the morning session, after that you'll be expected to get up and engage your own ideas with the group (10am-11am):
   * Room 633 - *Agile Development* by _Grahame Klyne_ (20min)
   * Room 631 - *Words have Power (or what the modern programmer has to learn from ancient Egyptian occultists)* _by Chris Gutteridge_ (10min)
   * Room 630 - *Open Source Software Communities and Why They Will Rule The World!* by _Ross Gardler_ (15 min)
