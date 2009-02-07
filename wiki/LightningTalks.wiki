@@ -34,7 +34,7 @@ Repeat of morning talks will all take place in Room 629
 
 We still have slots open for this day so if you feel so inspired please let us know if you'd like to give a talk.
 
-*(Lecture Theatre B33) 10am-11am: Explanation of submission process for Developer Decathlon Competition and Prizes_at_dev8D* 
+|| *(Lecture Theatre B33) 10am-11am: Explanation of submission process for Developer Decathlon Competition and Prizes_at_dev8D* ||
 
 || *Lecture Theatre B35* || *Room B04* ||
 || *10.30* - _Getting beyond PDF_ by Peter Sefton (20 min) || *10.30* - _CSS for developers_ by Nick Catto (15 min) ||
