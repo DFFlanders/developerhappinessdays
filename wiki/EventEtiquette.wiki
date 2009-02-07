@@ -12,10 +12,10 @@ If you've been to an unconference or bacamp before then you'll know what to expe
   # Join in, don't be exclusive when someone joins a conversation, open up your circle to let them in and acknowledge (usually by head bob) that they are there.
   # Generally people tend to adopt one of four roles at these events (though most will transition between each one throughout the event): 
     * a.) "scribes" are those getting stuff up on flipcharts, the wiki and posting tagged content (tweets, blogs, vlogs, etc), 
-    * b.) "lurkers" are those standing back and just listening who usually then become a backchannel scribe (event organisers like these people and their in depth commentary); 
-    * c.) "soap-boxers" are those selling their ideas -for good or bad- so long as they are passionate, 
-    * d.) "butterflys"  are those continually moving and absorbing the overall ebbs and tides of the event. 
-  # Attend scheduled taught events (i.e. the LightningTalks) only if you really want to, otherwise your primary objective at dev8D is to have the small group conversations (and ideally to the point where you are creating a prototype for the developerDecathlon competition.  
+    * b.) "lurkers" are those standing back and just actively listening, these people often become a backchannel scribe (event organisers like these people and their in depth commentary!); 
+    * c.) "soap-boxers" are those selling their ideas to groups -for good or bad- so long as they are passionate, 
+    * d.) "butterflys"  are those continually moving from group to group absorbing the overall ebbs and tides of the event. 
+  # "You are not a leming, don't act like one!" - Attend scheduled taught events (i.e. the LightningTalks) only if you really want to, otherwise *your primary objective at dev8D is to have the small group conversations* _(and ideally to the point where you are creating a prototype for the developerDecathlon competition_.  
 
 
 = Wisdom of Crowds =
