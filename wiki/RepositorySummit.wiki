@@ -3,6 +3,7 @@
 
 = Repository Summit Description =
 Location: Birkbeck Main Building (entrance off Torrington Square), Room 629
+When: Friday February 13th
 
 The Repository Summit is intended for any and all who want to know the latest in repository (digital library) software developments.  Lead developers from DSpace, EPrints, Fedora and Microsoft will be on had to update you on the cutting edge of repository software.
 
@@ -10,7 +11,7 @@ In the afternoon developers will be on hand to work with anyone one-on-one in ge
 
 
 = Schedule =
-
+Friday February 13th at Birkbeck College:
   * 9am Welcome and Housekeeping (please arrive early if you need a wifi key):
   * 9.00-10.00: Fedora Commons by Chris Wilper, Eddie Shin and Matt Zumwalt
   * 10.00-11.00: DSpace by Brad McClean, Mark Diggory and Jim Downing
