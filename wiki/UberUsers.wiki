@@ -31,7 +31,7 @@ Administration (room 631):
 
 = Advisers/Real Users =
 
-Advice on "How to Paper Prototype" (room 633) - Q&A and discussion on how best to get developers and users to communicate by using paper prototypes. Drop by if you hit problems, or if you want to 'borrow' Caroline or Mark to talk to your design team where you are working.
+Advice on "How to Paper Prototype" (room 633) - Q&A and discussion on how best to get developers and users to communicate by using paper prototypes. Drop by if you hit problems, or if you want Caroline or Mark to talk to your design team where you are working.
   * Caroline Bell (UX)
   * Mark van Harmelen (System Designer/Developer/UX, Part-time Lecturer in Computer Science)
 
