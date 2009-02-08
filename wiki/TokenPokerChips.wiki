@@ -1,7 +1,7 @@
 #summary brief explanation of poker chips in your badge-pouch
 #labels Monday,Tuesday,Wednesday
 
-= Because "interoperability" is about getting help from someone you trust =
+= "interoperability" occurs when developers are happy =
 
 The basic ides behind the five poker chips in your badge pouch is for you to give them away when you get some advice or help that improves your developer life.  This might be an interesting conversation, a presentation from the LightningTalks or some help in coding up your DeveloperDecathlon entry (or whatever else makes you happy).  The point being that we not only want to encourage developer happiness but also want to reward it.  We are calling this the "Individual Medley" competition.
 
