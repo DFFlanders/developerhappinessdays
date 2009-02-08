@@ -45,7 +45,7 @@ We still have slots open for this day so if you have any LightningTalks to give 
 || *11.00* - _Transcoding Learning Objects_ by Ian Ibbotson (10min) || *11.00* - _jQuery_ by Jim Downing (15min)||
 || *11.30* - _3 chord XSLT_ (like 3 chord Rock 'n' Roll but with angle brackets) by Peter Sefton (20 min) || *11.30* - _Linked Data and how BBC is using DBpedia_ by Georgi Kobilarov (20min)||
 || *12.00* - _SOLR_ by Ben O'Steen (25 min) || *12.00* - _Future of Web Identity_ by David Orrell (20min) ||
-|| *12.30* - _Django_ by Brian Jinwright (25 min) || *12.30* - _Blackboard APIs_ by George Kroner (20 min)||
+|| *12.30* - _Django_ by Brian Jinwright (25 min) || *12.30* - _Blackboard IMS Tool Interoperability APIs_ by George Kroner (20 min)||
 
 || *13.00 - 14.00 LUNCH in B04/03/02 _[http://spreadsheets.google.com/viewform?key=pF5wfoKZ_KIYw2F7eBwauXg YOU MUST ORDER YOUR LUNCH FOR FRESH DELIVERY ON THIS FORM BY 10.30am OR NO FOOD FOR YOU!_]*||
 
