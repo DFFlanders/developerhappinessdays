@@ -35,3 +35,7 @@ Instructions
 
 == dev8D ==
 These access points are the "unoffical" WiFi for the event, and we expect that you will be well behaved when using them.  We will track machine IP so please only use for "white hat" activity. 
+
+*As most people will be accessing this access point it will most likely slow down, so please do try and use BBK-WAM or Eduroam so the network will scale better.
+
+PLEASE PUT ANY ADVICE IN THE COMMENTS SECTION BELOW!
