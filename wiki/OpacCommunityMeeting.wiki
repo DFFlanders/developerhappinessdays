@@ -26,4 +26,5 @@ We'll probably be "making it up as we go along" on the day, but here's a rough p
 
  * [http://witcat.wit.ie/ Waterford Institute of Technology Library Catalogue] (David Kane)
  * [http://webcat.hud.ac.uk University of Huddersfield Library Catalogue] (Dave Pattern)
+ * [http://iris.cs.man.ac.uk/EIEdemo01.mp4 5 min vid on a prototype that allows for users to add contributions to OPAC records] (Mark van Harmelen, JISC EIE Project)
  * _add your_ [http://opac.link.com/ OPAC link] _and_ (your name) ...
