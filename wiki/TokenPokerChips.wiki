@@ -1,0 +1,9 @@
+#summary brief explanation of poker chips in your badge-pouch
+
+= Because "interoperability" is about getting help from someone you trust =
+
+The basic ides behind the five poker chips in your badge pouch is for you to give them away when you get some advice or help that improves your developer life.  This might be an interesting conversation, a LightningTalk presentation or some help in coding up your DeveloperDecathlon entry (or whatever else makes you happy).  The point being that we not only want to encourage developer happiness but also want to reward it.  We are calling this the "Individual Medley" competition.
+
+To make the Individual Medley game more interesting we've got some techy treasures in store for whomever can manage to collect the most token by 10pm on Wednesday (11th) at the Bowl Camp.  
+
+For full details and rules please see the [Prizes_at_dev8D] wiki page.
