@@ -1,6 +1,8 @@
 #summary instructions for how to set up WiFi on Birkbeck's Wireless
 #labels Monday,Tuesday,Wednesday,Thursday,Friday
 
+===if you need tech support ask for Dave Tarrant at the registraiton desk===
+
 = Access Points =
 
 Based on OS here is our recommendations for which WiFi access point to use (see instructions below, especially if you are using BBK-WAM:
