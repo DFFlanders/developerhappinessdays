@@ -4,4 +4,4 @@
 Competitions and Prizes up for grabs at dev8D:
   # [http://docs.google.com/View?docID=dfccf5n6_225cng53tmz&revision=_latest#The_Developer_Decathlon Developer Decathlon]: 5000GBP Grand Prize, 2000GBP runner-up
   # [http://docs.google.com/View?docID=dfccf5n6_225cng53tmz&revision=_latest#Individual_Medley Individual_Medley]: 4 X Dell Mini 9s 
-  # Apple iTouch from Blackboard see 'IMS Tool Interoperability' LightningTalks 
+  # Apple iTouch from Blackboard see "IMS Tool Interoperability" in LightningTalks 
