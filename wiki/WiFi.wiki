@@ -1,7 +1,8 @@
 #summary instructions for how to set up WiFi on Birkbeck's Wireless
 #labels Monday,Tuesday,Wednesday,Thursday,Friday
 
-===if you need tech support ask for Dave Tarrant at the registraiton desk===
+===_if you need tech support ask for Dave Tarrant at the registraiton desk_===
+
 
 = Access Points =
 
