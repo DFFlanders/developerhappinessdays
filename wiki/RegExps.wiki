@@ -1,4 +1,5 @@
 #summary Everything I'd been meaning to get around to ask about regular expressions.
+#labels Tuesday
 
 = Introduction =
 
