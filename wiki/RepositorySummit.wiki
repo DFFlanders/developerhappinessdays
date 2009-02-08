@@ -50,4 +50,5 @@ If you are coming to this event please put your name below:
   # Mark Borkum
   # David Kane
   # Stéphane Séchaud
+  # James Croft
   # [Put name here]
