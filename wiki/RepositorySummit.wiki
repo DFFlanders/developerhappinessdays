@@ -51,4 +51,5 @@ If you are coming to this event please put your name below:
   # David Kane
   # Stéphane Séchaud
   # James Croft
+  # Sebastian Pałucha
   # [Put name here]
