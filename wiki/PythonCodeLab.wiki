@@ -27,6 +27,10 @@ This day long workshop is for anyone who wants a crash course on Python.  It wil
 
 14.00-16.30 Frameworks and Tools
   * [http://code.google.com/p/developerhappinessdays/wiki/DjangoGAE DjangoGAE] by Brian
+  Useful URL's
+    * http://code.google.com/appengine/downloads.html - Google app engine SDK
+    * http://code.google.com/p/app-engine-patch/ - Google app engine patch
+    * eclipse.org - An IDE that does python
   * Data Mining by Rob
     Discovering hidden, interesting patterns in your data!  Practical focus on several tools that you can use.  Useful URLs:
     * http://www.csie.ntu.edu.tw/~cjlin/libsvm/
