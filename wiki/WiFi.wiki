@@ -33,7 +33,9 @@ Instructions
   * http://www.bbk.ac.uk/its/services/wam/jrs_overview  
 
 
-== dev8D ==
+== [SOWN]dev8D ==
+When you move rooms please disconnect and reconnect to the new access point or it won't work. TECH DETAIL: The [SOWN]dev8D access points do not have a bridge point. 
+
 These access points are the "unoffical" WiFi for the event, and we expect that you will be well behaved when using them.  We will track machine IP so please only use for "white hat" activity. 
 
 *As most people will be accessing this access point it will most likely slow down, so please do try and use BBK-WAM or Eduroam so the network will scale better.
