@@ -31,5 +31,5 @@ Likely to use Yahoo pipes, Google spreadsheets, a map or two, some RSS, some mor
 - if there's time, have a tinker in groups or on your own, in a supportive ("what the &*£$@%@ are you DOING?"), helpful ("oh, for ?!@£$?% sake") environment... (Only joking...:-)
 
 = Links =
-*A version of the slides Tony used: [http://www.slideshare.net/psychemedia/bcs-mashup-extended-presentation]http://www.slideshare.net/psychemedia/bcs-mashup-extended-presentation
-*More of Tony's presentations [http://www.slideshare.net/psychemedia/slideshows]http://www.slideshare.net/psychemedia/slideshows
+*A version of the slides Tony used: [http://www.slideshare.net/psychemedia/bcs-mashup-extended-presentation]http://www.slideshare.net/psychemedia/bcs-mashup-extended-presentation*
+*More of Tony's presentations [http://www.slideshare.net/psychemedia/slideshows]http://www.slideshare.net/psychemedia/slideshows*
