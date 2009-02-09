@@ -23,7 +23,7 @@ This day long workshop is for anyone who wants a crash course on Python.  It wil
  
   * Python 2.x vs Python 3.x by all (Panel Dicussion)
     * http://docs.python.org/3.0/whatsnew/3.0.html
-    * SLIDES: http://www.csc.liv.ac.uk/~azaroth/python3.pdf
+    * SLIDES: http://www.csc.liv.ac.uk/~azaroth/papers/python3.pdf
 
 13.00-14.00 LUNCH
 
@@ -38,7 +38,7 @@ This day long workshop is for anyone who wants a crash course on Python.  It wil
     * http://www.csie.ntu.edu.tw/~cjlin/libsvm/
     * http://glaros.dtc.umn.edu/gkhome/cluto/cluto/download
     * http://fimi.cs.helsinki.fi/src/fimi01.tgz
-    * SLIDES: http://www.csc.liv.ac.uk/~azaroth/datamining.pdf
+    * SLIDES: http://www.csc.liv.ac.uk/~azaroth/papers/datamining.pdf
 
   * Web Services by Ben
 
