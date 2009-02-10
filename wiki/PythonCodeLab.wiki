@@ -41,6 +41,7 @@ This day long workshop is for anyone who wants a crash course on Python.  It wil
     * SLIDES: http://www.csc.liv.ac.uk/~azaroth/papers/datamining.pdf
 
   * Web Services by Ben
+    * Slides and screencast examples - http://developerhappinessdays.googlecode.com/files/dev8d-presentation.pdf
 
 = Related Links =
   * [http://www.appenginelearn.com/chapters/toc.htm Pre Print of O'Reilly Google App Engine Book - Python/Django] (on loan from the author Dr. Chuck Severance)
