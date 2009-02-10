@@ -25,12 +25,12 @@
 ==Tuesday Afternoon (10th)==
 *This is a repeat of the morning talks.  All of them will be repeated in Room 629 (in case you missed a good'n), otherwise _it is expected that you will be getting on with your prototype for the DeveloperDecathlon _ in one of the other 6th floor rooms or in the CampBase.*
  
-  * 13.30 - *Practical Web Programming (or how to survive a JISC project)* _by Chris Gutteridge_ (20 min)
-  * 14.00 - *Agile Development* by _Grahame Klyne_ (20min)
-  * 14.30 - *Words have Power (or what the modern programmer has to learn from ancient Egyptian occultists)* _by Chris Gutteridge_ (10min)
-  * 15.00 - *Open Source Software Communities and Why They Will Rule The World!* by _Ross Gardler_ (15 min)
-  * 15.30 - *Why Collective Intelligence"* by _Tony Hurst_ (15min)
-  * 16.00 - * [http://code.google.com/p/developerhappinessdays/wiki/PaperPrototypes Designing with Sketches, Paper Prototypes, and Users] * by _Mark van Harmelen_ (2 X 30min <-- This is a taught class for anyone who has never done paper prototyping before)
+  * 13.45 - *Practical Web Programming (or how to survive a JISC project)* _by Chris Gutteridge_ (20 min)
+  * 14.15 - *Agile Development* by _Grahame Klyne_ (20min)
+  * 14.45 - *Words have Power (or what the modern programmer has to learn from ancient Egyptian occultists)* _by Chris Gutteridge_ (10min)
+  * 15.15 - *Open Source Software Communities and Why They Will Rule The World!* by _Ross Gardler_ (15 min)
+  * 15.45 - *Why Collective Intelligence"* by _Tony Hurst_ (15min)
+  * 16.15 - * [http://code.google.com/p/developerhappinessdays/wiki/PaperPrototypes Designing with Sketches, Paper Prototypes, and Users] * by _Mark van Harmelen_ (2 X 30min <-- This is a taught class for anyone who has never done paper prototyping before)
 
 == Wednesday All Day (11th) ==
 
