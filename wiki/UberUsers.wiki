@@ -12,8 +12,9 @@ On Tuesday Feb 10th, developers and real users will get together in small groups
 We are hoping that this day will help focus developers competing in the DeveloperDecathlon  on real app problems for users in higher education.  Though, we would encourage any developers who already have their use cases to get on with their decathlon entries: we have an open room (or rather bar = CampBase ) for those who wish to get hacking.  
 
 = The Real Users =
+Room 624 has coffee and on hand advice on how to paperPrototype.
 
-Students (room 624):
+Students (room 633):
   * Zein Sufi (Undergraduate in Financial Economics)
   * Nye Nduka (Undergraduate Student in Law)
 
