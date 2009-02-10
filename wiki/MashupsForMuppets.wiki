@@ -34,5 +34,9 @@ Likely to use Yahoo pipes, Google spreadsheets, a map or two, some RSS, some mor
 *A version of the slides Tony used*
 - [http://www.slideshare.net/psychemedia/bcs-mashup-extended-presentation]
 
+* Link to the uStream of Tony's Talk*
+- [http://www.ustream.tv/recorded/1138394]
+
+
 *More of Tony's presentations*
 -[http://www.slideshare.net/psychemedia/slideshows]
