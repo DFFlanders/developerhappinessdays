@@ -1,3 +1,3 @@
 #summary Notes from the Reading List Team
-#labels prototype
+#labels prototype,developerDecathlon
 = Introduction =
