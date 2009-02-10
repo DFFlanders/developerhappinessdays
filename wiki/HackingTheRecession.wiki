@@ -23,7 +23,7 @@ Read Dougald's blog entry on [http://otherexcuses.blogspot.com/2009/01/social-me
  * Where: Room 540
 
 Tracks so far are looking like follows:
-  # PHP hacking on [http://www.boonex.com/products/dolphin/ Dolphin] modules for the [http://otherexcuses.blogspot.com/2009/02/social-media-vs-recession-update.html Social Media vs the Recession] project 
+  # PHP hacking on [http://elgg.org/ Elgg] modules for the [http://otherexcuses.blogspot.com/2009/02/social-media-vs-recession-update.html Social Media vs the Recession] project 
   # Python hacking on the Django based website being built for [http://www.ukgovweb.org/forum/topics/g20-to-we20 We20] project
   # Collaborate with other hackers on developing your own crunch-busting and/or social change ideas
 
@@ -39,10 +39,10 @@ Tracks so far are looking like follows:
 == Sign up to come (25 places only) ==
 Make sure you are registered to attend [http://dev8d.org Developer Happiness Days] on Friday and put your name down here.  If you are only coming to this day then please just email developerhappinessdays@gmail.com to be added to the wiki (no need to sing up on the dev8D site if only attending this one day):
   # [http://twitter.com/evangineer Mamading Ceesay (Instigator)]
-  # [http://twitter.com/hexayurt Vinay Gupta (Accomplice In Crime)]
+  # [http://twitter.com/hexayurt Vinay Gupta]
   # [http://twitter.com/jdaviescoates Josef Davies-Coates]
   # [http://learnbydoinguk.blogspot.com Pamela MacLean]
-
+  # [http://twitter.com/dougald Dougald Hine]
 
 == Links ==
  * [http://unsummit.org An US unconference on tech + biz + community] that I unahamedly borrowed much of the introductory text from with thanks.
