@@ -83,12 +83,12 @@ IF YOU WOULD LIKE TO COME YOU MUST GET PERMISSION FROM D.FLANDERS@BBK.AC.UK
 
 ==Table 8 (X8)==
   # Aaron Zeckoski (CARET, University of Cambridge)
-  # Kang Tang (Oxford e-Research Centre)
+  # Ten Yen (sp.org)
   # Mark Dewey (UKOLN)
   # Nick Catto (University of South Carolina Upstate)  
   # Sue Milne (ELandWeb Ltd)
-  # TBC
-  # TBC
+  # Ismail Malik (StudentSim)
+  # Brian Jinwright 
   # TBC
 
 
@@ -99,8 +99,8 @@ IF YOU WOULD LIKE TO COME YOU MUST GET PERMISSION FROM D.FLANDERS@BBK.AC.UK
   # Graham Alsop (Kingston University)
   # Chris Banks (University of Manchester)
   # David Kane (Waterford Institute of Technology)
-  # TBC
-  # TBC
+  # Sarah Tuke (Violinist/Quartet)
+  # JJ          (Quartet Manager)
 
 ==Table 10 (X8)==
   # Ian Ibbotson (Knowledge Integration Ltd)
@@ -108,9 +108,9 @@ IF YOU WOULD LIKE TO COME YOU MUST GET PERMISSION FROM D.FLANDERS@BBK.AC.UK
   # James Annesley (Kingston University)
   # Frankie Roberto (Rattle)
   # Toni Hurst (Open University)
-  # TBC
-  # TBC
-  # TBC
+  # Quartet 
+  # Quartet
+  # Quartet
 
 = Developers Nominated for an Award =
 (in no particular order)
