@@ -108,9 +108,9 @@ IF YOU WOULD LIKE TO COME YOU MUST GET PERMISSION FROM D.FLANDERS@BBK.AC.UK
   # James Annesley (Kingston University)
   # Frankie Roberto (Rattle)
   # Toni Hurst (Open University)
-  # Quartet 
-  # Quartet
-  # Quartet
+  # Llinos Richards (Quartet) 
+  # Jo Allen (Quartet)
+  # Kotono Sato (Quartet)
 
 = Developers Nominated for an Award =
 (in no particular order)
