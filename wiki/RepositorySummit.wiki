@@ -52,4 +52,5 @@ If you are coming to this event please put your name below:
   # Stéphane Séchaud
   # James Croft
   # Sebastian Pałucha
+  # Aaron Zeckoski (DSpace 2)
   # [Put name here]
