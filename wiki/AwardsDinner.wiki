@@ -51,8 +51,8 @@ IF YOU WOULD LIKE TO COME YOU MUST GET PERMISSION FROM D.FLANDERS@BBK.AC.UK
   # Edwin Shin (MediaShelf)
 
 ==Table 5 (X9)==
-  # Nicola Wilkinson (Loughborough University)*
-  # Andrew Williams (Loughborough University)*
+  # Nicola Wilkinson (Loughborough University)
+  # Andrew Williams (Loughborough University)
   # Mark van Harmelen (University of Manchester)
   # Graham Triggs (Open Repository)
   # Juliette Culver (The Open University)
