@@ -78,8 +78,8 @@ IF YOU WOULD LIKE TO COME YOU MUST GET PERMISSION FROM D.FLANDERS@BBK.AC.UK
   # Amber Thomas (JISC)
   # Ian Morrison (Darq Ltd)
   # David Livingstone (Kingston University)
-  # TBC
-  # TBC
+  # Richard Melville (UKUUG)
+  # Corimme Welsh (UKUUG)
   # TBC
 
 ==Table 8 (X8)==
@@ -126,7 +126,6 @@ IF YOU WOULD LIKE TO COME YOU MUST GET PERMISSION FROM D.FLANDERS@BBK.AC.UK
   * Mark Van Harmelen
   * David Spence
   * Paul Battley
-  * Stuart Lewis
   * Nicola Wilkinson
   * Matt Zumwalt
   * Aaron Zeckoski
