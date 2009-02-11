@@ -55,5 +55,5 @@ We still have slots open for this day so if you have any LightningTalks to give 
 || *15.00* _[RegExps Regular Expressions]: Part 1 (The basics) Everything I meant to learn about regexps (but didn't get around to yet)_ by Chris Gutteridge (2 X 30min <-- special sessions see below, examples in Perl). || *15.00* -  _Sakai ReST APIs_ by Aaron Zeckoski (25 min) ||
 || *15.30* _[RegExps Regular Expressions]: Part 2 (some clever stuff) Everything I meant to learn about regexps (but didn't get around to yet)_ by Chris Gutteridge (2 X 30min <-- special sessions see above, examples in Perl). || *15.30* -   _Sharing data: what museums have to offer, and what we can learn_ by _Mia Ridge_ (15min + discussion) ||
 || *16.00* Introduction to Ruby - Tom Morris|| *16.00* - _You got your Java in my Python! (Intro to Jython)_ ([http://developerhappinessdays.googlecode.com/files/jython.zip sample code]) by Aaron Zeckoski (10 min) ||
-|| *16.30*  - _jQuery_ by Jim Downing (15min) || *16.30* - SESSION STILL OPEN FOR SIGN UP - SIGN UP AT THE REG DESK ||
+|| *16.30*  - NO SESSION || *16.30* - SESSION STILL OPEN FOR SIGN UP - SIGN UP AT THE REG DESK ||
 || *17.00 END OF DAY <-- now on to the Bowl Camp !!!*||
