@@ -1,5 +1,3 @@
-#summary One-sentence summary of this page.
-
 = Blackboard APIs and the IMS Learning Tools Interoperability Standard=
 
 Historical insight into the "rise of the platform," overview of a new standard for developing learning tools, and examples of how learning tools can plug into the Blackboard Learn VLE.
