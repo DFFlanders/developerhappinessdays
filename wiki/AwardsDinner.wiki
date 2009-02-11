@@ -13,7 +13,7 @@ IF YOU WOULD LIKE TO COME YOU MUST GET PERMISSION FROM D.FLANDERS@BBK.AC.UK
   # Ben O'Steen (Oxford University)
   # Mark Hedges	(King's College London)
   # Paul Walk (UKOLN)
-  # Rachael Rodenmayer (dev8D staff)
+  # Michelle Pauli (Freelance Journalist)
   # Andrew McGreggor (JISC)
   # David F. Flanders (JISC)
 
@@ -79,7 +79,7 @@ IF YOU WOULD LIKE TO COME YOU MUST GET PERMISSION FROM D.FLANDERS@BBK.AC.UK
   # David Livingstone (Kingston University)
   # Richard Melville (UKUUG)
   # Corimme Welsh (UKUUG)
-  # TBC
+  # David Kane (Waterford Institute of Technology)
 
 ==Table 8 (X8)==
   # Aaron Zeckoski (CARET, University of Cambridge)
@@ -98,7 +98,7 @@ IF YOU WOULD LIKE TO COME YOU MUST GET PERMISSION FROM D.FLANDERS@BBK.AC.UK
   # Sebastian Palucha (Durham University)
   # Graham Alsop (Kingston University)
   # Chris Banks (University of Manchester)
-  # David Kane (Waterford Institute of Technology)
+  # Rachael Rodenmayer (dev8D staff)
   # Sarah Tuke (Violinist/Quartet)
   # JJ          (Quartet Manager)
 
