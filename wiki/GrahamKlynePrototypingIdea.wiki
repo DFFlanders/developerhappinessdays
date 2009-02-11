@@ -41,15 +41,12 @@ By "small reseerch group", I mean groups with maybe 2-6 people with to access to
 
 = Second-level problems =
 
-_Of course, any of these statements about "existing systems" may be refuted by an existence proof_
+_Of course, any of these statements about "existing systems" may be refuted by existence proof_
 
-* Existing research environment systems are too complex or difficult to use or set up for our users.  The effort required is not, in their perception, justified by the benefits.
-
-* Existing data sharing systems don't provide easy access to the required capabilities (e.g. associate spreadsheet data with images)
-
-* Existing systems don't provide access to the structure inherrent in the data (e.g. search for images of expression of a specified gene indicated by a spreadsheet column).
-
-* To (usefully) enable preservation and publication of data, some degree of descriptive metadata (administrative and domain-related; e.g. researcher name, sample strain).  It is assumed that most of the required metadata is available somewhere in the data.
+ * Existing research environment systems are too complex or difficult to use or set up for our users.  The effort required is not, in their perception, justified by the benefits.
+ * Existing data sharing systems don't provide easy access to the required capabilities (e.g. associate spreadsheet data with images)
+ * Existing systems don't provide access to the structure inherrent in the data (e.g. search for images of expression of a specified gene indicated by a spreadsheet column).
+ * To (usefully) enable preservation and publication of data, some degree of descriptive metadata (administrative and domain-related; e.g. researcher name, sample strain).  It is assumed that most of the required metadata is available somewhere in the data.
 
 = User stories =
 
@@ -64,8 +61,8 @@ As a: small research group
 We want: to be able easily to share data with local and remote collaborators without immediately making it publicly accessible
 
 So that:
-* we can pool insights, analysis and data to improve research results
-* we can capture data on one computer and analyze them on another
+ * we can pool insights, analysis and data to improve research results
+ * we can capture data on one computer and analyze them on another
 
 == Safety of data ==
 
@@ -92,9 +89,9 @@ As a: small research group
 We want: to easily make our data available for public access
 
 So that:
-* we can gain personal kudos when our work is re-used and acknowledged by other researchers (and maybe, in future, real RAE-style status enhancement).
-* to satisfy the requirements of some research funding agencies
-* our research can contribute more effectively the a general public good, through re-use and secondary research
+ * we can gain personal kudos when our work is re-used and acknowledged by other researchers (and maybe, in future, real RAE-style status enhancement).
+ * to satisfy the requirements of some research funding agencies
+ * our research can contribute more effectively the a general public good, through re-use and secondary research
 
 Note: it will often be a requirement that publication of data is embargoed until papers have been published and/or local programmes of data anlysis have run their course.
 
@@ -115,8 +112,8 @@ As a: small group researcher
 I want: to have access to the various benefits of data management without installing new software on the computer being used
 
 So that:
-* I do not have to be bothered with installing and configuring new software
-* I can access my data from any suitably-connected computer (e.g. for discussion with colleagues at a conference)
+ * I do not have to be bothered with installing and configuring new software
+ * I can access my data from any suitably-connected computer (e.g. for discussion with colleagues at a conference)
 
 
 == Selective preservation/publication ?? ==
@@ -129,6 +126,6 @@ So that:
 
 = References =
 
-* Findings of the Scoping Study Interviews and the Research Data Management Workshop (Executive summary) - http://ora.ouls.ox.ac.uk/objects/uuid%3A4e2b7e64-d941-4237-a17f-659fe8a12eb5/datastreams/ATTACHMENT01
+ * Findings of the Scoping Study Interviews and the Research Data Management Workshop (Executive summary) - http://ora.ouls.ox.ac.uk/objects/uuid%3A4e2b7e64-d941-4237-a17f-659fe8a12eb5/datastreams/ATTACHMENT01
 
-* Findings of the Scoping Study Interviews and the Research Data Management Workshop (Main report) - http://ora.ouls.ox.ac.uk/objects/uuid%3A4e2b7e64-d941-4237-a17f-659fe8a12eb5/datastreams/ATTACHMENT02
+ * Findings of the Scoping Study Interviews and the Research Data Management Workshop (Main report) - http://ora.ouls.ox.ac.uk/objects/uuid%3A4e2b7e64-d941-4237-a17f-659fe8a12eb5/datastreams/ATTACHMENT02
