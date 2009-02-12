@@ -79,7 +79,7 @@ IF YOU WOULD LIKE TO COME YOU MUST GET PERMISSION FROM D.FLANDERS@BBK.AC.UK
   # David Livingstone (Kingston University)
   # Richard Melville (UKUUG)
   # Corinne Welsh (UKUUG)
-  # Graham Triggs (Open Repository)
+  # TBC
 
 ==Table 8 (X8)==
   # Sue Milne (ELandWeb Ltd)
@@ -93,7 +93,7 @@ IF YOU WOULD LIKE TO COME YOU MUST GET PERMISSION FROM D.FLANDERS@BBK.AC.UK
 
 ==Table 9 (X8)==
   # Sebastian Palucha (Durham University)
-  # Graham Alsop (Kingston University)
+  # TBC
   # Peter Sefton (University of Southern Queensland)
   # Chris Banks (University of Manchester)
   # Jay Jay (Quartet Manager)
