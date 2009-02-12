@@ -26,3 +26,6 @@ Some example COP's might be
   At Institution X
 
 These systems could also integrate with delicious tags - for example, this COP is using the following delicious tags for COP resources - "BMS-1-MyInst"
+
+Cheers,
+Ian I.
