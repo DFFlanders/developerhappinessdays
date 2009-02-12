@@ -45,6 +45,8 @@ Make sure you are registered to attend [http://dev8d.org Developer Happiness Day
   # [http://twitter.com/jdaviescoates Josef Davies-Coates]
   # [http://learnbydoinguk.blogspot.com Pamela MacLean]
   # [http://twitter.com/dougald Dougald Hine]
+  # [http://twitter.com/andybroomfield Andy Broomfield]
+  # [http://twitter.com/bastubis Paula Graham]
 
 == Links ==
  * [http://unsummit.org An US unconference on tech + biz + community] that I unahamedly borrowed much of the introductory text from with thanks.
