@@ -29,7 +29,6 @@ IF YOU WOULD LIKE TO COME YOU MUST GET PERMISSION FROM D.FLANDERS@BBK.AC.UK
   # Ed Lyon (dev8D staff)
 
 == Table 3 (X9)==
-  # Matt Zumwalt (MediaShelf)
   # Julian Cheal (UKOLN)
   # Alex Wade (Microsoft Research)
   # Savas Parastatidis (Microsoft)
@@ -38,79 +37,80 @@ IF YOU WOULD LIKE TO COME YOU MUST GET PERMISSION FROM D.FLANDERS@BBK.AC.UK
   # Bradley McLean (DSpace Foundation)
   # Owen Stephens (Imperial College London)
   # Balviar Notay (JISC)
+  # TBC
 
 == Table 4 (X9) ==
-  # Mark Diggory (DSpace Foundation)
   # Nico Adams (University of Cambridge)
   # Stephen Grace (King's College London)
   # Andrew Wasilczuk (Darq Ltd)
   # Ali Khanban (Imperial College London)
   # Alistair Willis (Open University)
   # James Croft 
+  # Mark Diggory (DSpace Foundation)
   # James Orwell (Kingston University)
   # Edwin Shin (MediaShelf)
 
 ==Table 5 (X9)==
-  # Nicola Wilkinson (Loughborough University)
-  # Andrew Williams (Loughborough University)
   # Mark van Harmelen (University of Manchester)
-  # Graham Triggs (Open Repository)
+  # TBC
   # Juliette Culver (The Open University)
   # Victoria Collins (ELandWeb)
+  # Nicola Wilkinson (Loughborough University)
+  # Andrew Williams (Loughborough University)
   # Simin Kamali (Middlesex University)
   # Stephen Vickers (The University of Edinburgh)
   # Marcus Ramsden (University of Southampton)
 
 ==Table 6 (8)==
-  # Ross McFarlane (University of Liverpool)
   # R. John Robertson (CETIS/ University of Strathclyde)
   # Roland Ukor (University of Manchester)
   # Samia Oussena (TVU)
   # Alicia M. Campos (Kingston University)
   # Yvonne Howard (University of Southampton)
+  # Ross McFarlane (University of Liverpool)
   # Andrew Wasilczuk (Darq Ltd.)
-  # TBC
+  # James Farnhill (JISC)
 
 ==Table 7 (X8)==
   # Dave Tarrant (University of Southampton)
-  # Peter Cliff (Oxford University Library Services)
+  # David Kane (Waterford Institute of Technology)
   # Amber Thomas (JISC)
   # Ian Morrison (Darq Ltd)
   # David Livingstone (Kingston University)
   # Richard Melville (UKUUG)
   # Corimme Welsh (UKUUG)
-  # David Kane (Waterford Institute of Technology)
+  # Graham Triggs (Open Repository)
 
 ==Table 8 (X8)==
+  # Sue Milne (ELandWeb Ltd)
   # Aaron Zeckoski (CARET, University of Cambridge)
   # Ten Yen (sp.org)
   # Mark Dewey (UKOLN)
   # Nick Catto (University of South Carolina Upstate)  
-  # Sue Milne (ELandWeb Ltd)
   # Ismail Malik (StudentSim)
   # Brian Jinwright 
   # Raj Bagai (dev8D staff)
 
-
 ==Table 9 (X8)==
-  # Peter Sefton (University of Southern Queensland)
-  # James Farnhill (JISC)
   # Sebastian Palucha (Durham University)
   # Graham Alsop (Kingston University)
+  # Peter Sefton (University of Southern Queensland)
   # Chris Banks (University of Manchester)
+  # Jay Jay (Quartet Manager)
   # Rachael Rodenmayer (dev8D staff)
   # Sarah Tuke (Violinist/Quartet)
-  # JJ          (Quartet Manager)
+  # Matt Zumwalt (MediaShelf)
 
 ==Table 10 (X8)==
+  
+  # James Annesley (Kingston University)
+  # Toni Hurst (Open University)
   # Ian Ibbotson (Knowledge Integration Ltd)
   # Mia Ridge (Science Museum)
-  # James Annesley (Kingston University)
-  # Frankie Roberto (Rattle)
-  # Toni Hurst (Open University)
+  # Kotono Sato (Quartet)
   # Llinos Richards (Quartet) 
   # Jo Allen (Quartet)
-  # Kotono Sato (Quartet)
+  # TBC
 
 = Developers Nominated for an Award =
 (in no particular order)
