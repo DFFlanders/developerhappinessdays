@@ -3,7 +3,7 @@
 
 = What? =
 
-The Dragon's Den will take place throughout Thursday to provide those competing in the Developer Decathlon to get feedback from a mock panel of judges.  We'll have three judges who will give feedback on: presentation, usability and technical implications. 
+The Dragon's Den will take place throughout Thursday to provide those competing in the DeveloperDecathlon to get feedback from a mock panel of judges <- THE DRAGON'S DEN.  We'll have three judges who will give feedback on: presentation, usability and technical implications. 
 
 Judges Include:
   * Rachel Bruce will provide feedback on overall presentation
@@ -21,7 +21,10 @@ If you would like to present your prototype idea to these judges please sign up 
   * 11.15-11.30 name of presenters and name of prototype
   * 11.30-11.45 name of presenters and name of prototype
   * 11.45-12.00 name of presenters and name of prototype
+  * 12.15-12.30 name of presenters and name of prototype
   * LUNCH
+  * 13.30-13.45 name of presenters and name of prototype
+  * 13.45-14.00 name of presenters and name of prototype
   * 14:00-14:15 Ian Morrison, Andrew Wasilczuk, Ishmal Malik - Foxy Proxy
   * 14:15-14:30 name of presenters and name of prototype
   * 14:30-14:45 name of presenters and name of prototype
