@@ -22,7 +22,7 @@ If you would like to present your prototype idea to these judges please sign up 
   * 12.15-12.30 Mark Borkum, Nick Catto, Sam Easterby-Smith - Semantic Tags
   * LUNCH
   * 13.30-13.45 name of presenters and name of prototype
-  * 13.45-14.00 name of presenters and name of prototype
+  * 13.45-14.00 Eddie Shin, Juliette Culver, Matt Zumwalt, Chris Wilper - LillyPad
   * 14:00-14:15 Ian Morrison, Andrew Wasilczuk, Ishmal Malik - Foxy Proxy
   * 14:15-14:30 Stephen Vickers, Michael Aherne, George Kroner - SpACE
   * 14:30-14:45 name of presenters and name of prototype
