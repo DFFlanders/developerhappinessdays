@@ -53,4 +53,6 @@ If you are coming to this event please put your name below:
   # James Croft
   # Sebastian Pałucha
   # Aaron Zeckoski (DSpace 2)
+  # Mike Priddy
+  # Tobias Blanke
   # [Put name here]
