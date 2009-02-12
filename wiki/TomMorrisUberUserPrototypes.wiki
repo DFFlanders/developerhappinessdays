@@ -29,3 +29,6 @@ These systems could also integrate with delicious tags - for example, this COP i
 
 Cheers,
 Ian I.
+
+
+Another thought I had walking into birkbeck this morning was what would happen if we had and ISO 10161 (ILL - Inter Library Loans) responder which sat in a community of practise room instead of an institutional ILL department. Instead of routing requests for a paper to an organisations peer ISO ILL organisations, we could route requests to user communities, essentially crowd-sourcing papers from groups of researchers working in the same subject areas. Because ISO ILL already carries a max cost and preconditions fields, we could specify max-cost=0, precondition="You must already have a license to this item" and delivery info of the end user email address. Thus, we could create zero cost ILL services, as there's an incredibly good chance that researchers working in similar areas. Personal ILL.. intersting.... 
