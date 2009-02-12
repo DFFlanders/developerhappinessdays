@@ -17,10 +17,8 @@ The Dragon's Den will take place in Lecture Theatre B36.  You will need to wait 
 = Sign-Up Here =
 
 If you would like to present your prototype idea to these judges please sign up here for a ten minute time slot (there will be 5 minutes of Q&A feedback after your presentation).  Please note, you will be stopped at ten minutes exactly so as to keep from the schedule running over.
-  * 11.00-11.15 name of presenters and name of prototype
-  * 11.15-11.30 name of presenters and name of prototype
-  * 11.30-11.45 name of presenters and name of prototype
-  * 11.45-12.00 name of presenters and name of prototype
+  
+  * 11.45-12.00 Chris Gutteridge SplashURL.net
   * 12.15-12.30 name of presenters and name of prototype
   * LUNCH
   * 13.30-13.45 name of presenters and name of prototype
