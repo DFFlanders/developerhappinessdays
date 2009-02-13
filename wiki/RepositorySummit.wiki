@@ -12,11 +12,11 @@ In the afternoon developers will be on hand to work with anyone one-on-one in ge
 
 = Schedule =
 Friday February 13th at Birkbeck College:
-  * 9am Welcome and Housekeeping (please arrive early if you need a wifi key):
-  * 9.00-10.00: Fedora Commons by Chris Wilper, Eddie Shin and Matt Zumwalt
-  * 10.00-11.00: DSpace by Brad McClean, Mark Diggory and Jim Downing
-  * 11:00-12:00: EPrints by Les Carr and Simon Coles
-  * 12.00-13.00: Microsoft Repository by Savas Parastatidis and Alex Wade
+  * 9am Welcome and Housekeeping in George Birkbeck Bar (please arrive early if you need a wifi key):
+  * 9.30-10.30: Fedora Commons by Chris Wilper, Eddie Shin and Matt Zumwalt
+  * 10.30-11.30: DSpace by Brad McClean, Mark Diggory and Jim Downing
+  * 11:30-12:30: EPrints by Les Carr and Simon Coles
+  * 12.30-13.00: Microsoft Repository by Savas Parastatidis and Alex Wade
   * 13.00-14:00: LUNCH
   * 14.00-17.00: Repository Surgery: Each of the above developers will occupy a room where anyone can go to get hands on help with launching and using the various repositories.
     * EPrints Surgery (Room 633)
