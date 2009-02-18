@@ -13,6 +13,54 @@ Having noted that the interactions should not be based on existing systems, my h
 
 For an example of what might be required, think of a "Flickr for researchers".
 
+= Revised proposal =
+
+_This revised proposal has come about as a result of discussing the earlier proposal with Nick Catto, who pointed me to a commercial system at GetDropBox.com, which appears to satisfy all of the usability requirements captured in the user stories below.  As a result, the proposal has been reformulated as a decvelopment project using a system like that at GetDropBox.com as a basis for early user prorotypes._
+
+_What follows is a transcription and expansion of some notes I used for a Dev8D "mock-dragons den" pitch, revised to take account of feedback received._
+
+ # This proposal derives from my work in a small research group of 4 people in the Zoology department at Oxford University, and the work we have been doing with small research groups into Drospila (fruit fly) gene function.
+ # The target user base for thsi development is small research groups who are creating modest amounts of high-value scientific data
+   * In our previous work (Defining Image Access), we have noticed a death of research data content in institutional repositories.  Why is this?  One reason seems to be that it is too hard for small research groups to organize and submit their data
+   * It seems that current research support systems development (VREs and associated systems) provide reasonable facilities for (a) administrative support and related activities that are not specific to a partocular domain of research, and (b) larger research groups who have access to IT custom development capacity (e.g. projects like the Cambridge Protein Trap, and many environmental and medical research projects).
+   * But there are many small projects (e.g. 2-6 people), without access to capacity for setting up complex systems, but which nonetheless are generating high-value (or high-cost) results, that are not being served, and their research data is being lost.
+   * Also, we have observed that small life-science research groups are veery reluctant to invest time and effort in complex systems, sometimes even when they can see potential value in those systems.  Many VRE system developments fail at this first hurdle.
+ # To address this problem of lost research data, we propose to assemble a lightweight system that makes it really easy for researchers to to capture their data and associated annotations within their existiong workflows.
+ # An example research project:  studies of in situ gene expression in Drosophila (fruit fly) tested, part of wider investigations into factors affecting male infertility in various organisms, including humans.
+   * _(Drosohila in situ image here)_
+   * A drosophila in-situ gene expression image - shows anatomical regions and physiological processes where a given gene is expressed.  In order to interpret this image, the particular gene and the strain of organism must also be recorded - without this information, the image alone is meaningless.
+   * Further observations that are extremely valuable to retain for future reference include: notes of the anatomical regions where gene expression can be seen, reasons for choice of this gene for in situ imageing, associatyed microarray data, associated RT-PCR (Real-time Polymerase Chain Reaction) data.  Researchers typically collect all this information in spreadsheets on their desktop PCs.
+   * This research project had an estimated total budget of about £800K (two FTE people over 3 years, plus special equipment, microarray arrays, etc.), and produced images of about 100 different genes.  In the normal run of things, this valuable data may well end up on a researchers hard drive and lost to further review and re-use by other groups.
+ # We propose a project to assemble the following, re-using existing software possible where possible, and developing new components where needed.
+ # Core deliverables.  These represent an irreducible minimum system, whose development timescale will depend crucially on the availability of existing components.  Especially, the data acquisition component would be large project to develop from scratch, but we fully expect that existing software can achieve this is a fashion minimally acceptable to researchers.  
+   * Tools to collect researcher data from researchers' PCs to a managed location, where it can be made safe (backed up) and shared in controlled fashion within the research group and with research collaborators.  We anticipate this will take the form of a simple web interface, and/or a "web file system", where data is copied to a designated staging area using familiar file management tools.  The system at GetDropBox.com may be used as an initial prototype to elicit user feedback.  I understand a similar system is being developed at Cambridge University which could be a candidate for this deliverable.
+     * _(GetDropBox demo/screencast here)_
+   * Tools to associate a minimum set of annotations and metadata with a collection opf data files, sufficient to meet the metadata requirements for institutional repository deposition.  Once captured, these annotations will be kept with the data, avoiding the need for re-entry.
+     * _(Demo entry form here - keep it simple!)_
+   * Tools to perform automated submission to an institutional repository, probably usimng the SWORD protocol.
+     * _(Demo submission form here - again, keep it simple!)_
+ # Additional deliverables.  These additional developments build upon the minimum core, and the extent to which they are completed in a fixed-term project will depend on availability of off-the-shelf tools for the core deliverables.
+   * Usability improvements: work with researchers to make the system easier for them to adopt and use within their existing work practices. (Any improvements to their working practices should come about as a result of, not a prerrequisite of, their using the system.)
+   * Metadata extraction tools: customizable tools to extract researcher annotations from spreadsheets, and maybe other kinds of document, so that they can be exposed in ways that facilitate discovery and re-use of the research data.  These tools will work with and enhance the annotation tools proviuded as a core deliverable.
+     * _(Sample screenshot, linking spreadsheet data to images)_
+   * Data publication tools:  allowing a researcher to publish some or all of their data as an open linked dataset on the Web.  In its simplest form, such publication could consist of web-accessible data files and some associated RDF metadata.  We have good contacts with Talis, and the Talis Platform appears to be a strong condender for achieving long-term availability of openly published datasets.
+     * _(Demo submission form here - again, keep it simple!)_
+   * Data access, viewing and mashup tools.  Following on from our FlyWeb work, which has developed a number of simple tools focused on articulated researcher requirements, providing some tools to make it easy to locate, review and access open published datasets.  This would probably be in the form examplars taken from requirements of researchers with whom we work.  Modular, open source code will allow other developers to adapt these exemplars to differing user requirements.
+     * _(FlyWeb demo screencast, as example of mashup application)_
+   * There are many other areas of functionality that could be investigated and developed: licensing, versioning, visualization tools.  None of these are explicitly intend to addressed by this proposed project, except to the extent they are needed to support user requirements arising directly from working with the core system;  i.e. enhancements we can add to make the system immediately more useful or usable to our research users.
+ # Researcher benefits
+   * Immediately: safety of data - access to automatic backups
+   * Immediately: facilitate sharing within the research group and with collaborators
+   * Mid-term: facilitating compliance with reseafch grants that increasingly require publication of data as well as papers reporting results
+   * Long-term: enhanced academic reputation through recognition and re-use of good datasets by other researchers
+   * Long-term: better public awareness of research work and benefits by allowing different views on the data to be created by public communicators
+   * Long-term: enabling new lines of research that build upon earlier results and data
+ # Summary of key points
+   * Supporting *small* research groups
+   * Preserving and exploiting modestly-sized, high-value datasets
+   * Ultra-low "activation energy" for bench researchers
+   * Enabling preservation, open publication, re-use and re-mixing of research data
+
 
 = Sketch of prototypical user =
 
