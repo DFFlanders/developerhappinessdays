@@ -171,11 +171,13 @@ So that:
 
 == Selective preservation/publication ?? ==
 
-...
+(TBD - the general idea is to allow a researcher to select datasets or parts of datasets for open publication, rather than just publishing everything.  This would be used, e.g., for not exposing data with known errors or where privacy concerns may require restrictions on publication.)
+
 
 == Recover older versions of shared data ?? ==
 
-...
+(TBD - the idea is that updated copies of data files will be version-managed, with the latest version normally visible, but with facilities to recover older versions.  Maybe useful for recovering from operator errors, or checking earlier results, etc.)
+
 
 = References =
 
