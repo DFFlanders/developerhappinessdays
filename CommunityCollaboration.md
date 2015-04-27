@@ -1,0 +1,25 @@
+# What? #
+
+The "Community Collaboration Day" is about developers coming together with the communities of the higher education systems they normally work within: VLE, OPAC, Repository and Communication tools.  The intention of the day is to enable developers and their communities to explore the possibilities of innovation (both from the perspective of technical and user integration).
+
+# Who? #
+
+To help steer this community discussion, we've designated facilitators for each of the four sessions that will help provide an initial ice breaker session; and, then help designate smaller groups to work on community specific themes:
+  * VLE (Blackboard, Moodle, Sakai, Studeos, etc): Sarah Sherman
+  * OPAC (Horizon, Koha, Talis, Greenstone, Vu Find, etc): Dave Pattern
+  * Repository (ePrints, DSpace, Fedora, Microsoft, etc): Les Carr
+  * Communication Tools (GoogleDocs, Wikis, Blogs, IM, VoIP): Caroline Bell
+
+# Overall Schedule for the Day #
+
+| 9am-10am CampBase set up (Lecture Theatre B35) | 9am-4pm Registration Desk (Outside Lecture Theatre B36) |
+|:-----------------------------------------------|:--------------------------------------------------------|
+
+|10am-1pm| **VLE Community Meeting** (Room B04): _What does the VLE need to do so as to continue to grow and change in these times (e.g. Blackboard, Moodle, Sakai, Studeos, etc)_? |**OpacCommunityMeeting** (Room B02/03) _Library Catalogues are changing rapidly, this is an opportunity to discuss that change (e.g. Horizon, Koha, Talis, Greenstone, Vu Find, et al)_| **DragonsDen for DeveloperDecathlon** (B36): those competing can sign up to do a mock presentation of their prototype to the judges for further feedback and advice prior to submitting your final entry|
+|:-------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+|**LUNCH** from 1pm to 2pm (Rooms B04, B02/B03)|
+|:---------------------------------------------|
+
+|2pm-4pm|**Repository Community Meeting** (Room B04): _As digital collections continue to expand where should content be archived and made openly accessible (e.g. ePrints, DSpace, Fedora et al)?_|**Comuumincation Tools Community Meeting** (Room B02/B03) _Students and teachers are using online collaboration tools to do their work more than ever (eg. Google Docs, Media Wiki, Wordpress, IM, VoIP, email, etc)_  | Sign-up for DragonsDen closes at 3pm sign up at the Registration Desk in B36|
+|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------|

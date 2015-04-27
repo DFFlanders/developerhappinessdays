@@ -1,0 +1,60 @@
+# Two days of LightningTalks for the DeveloperDecathlon #
+
+**What is a lightning talk?** = "lightning" refers to two things: a.) eye opening, as in a "lightning bolt to the brain", and b.) ideas that are quick and to the point.
+  * We'll have flipcharts, whiteboards and a projector on hand for any visual aids, though you only need to bring your brightest ideas! 8D
+
+### We hope the LightningTalks will inspire you to innovate a prototype for the DeveloperDecathlon ! ###
+
+
+## Tuesday Morning (10th) ##
+**10am-11am Morning ice-breaker presentations**: We've scheduled the first presentation for the morning session, after that you'll be expected to get up and engage the group with your own ideas <--see EventEtiquette.
+
+  * Room 633 - **Agile Development** by _Grahame Klyne_ (20min)
+  * Room 631 - **Words have Power (or what the modern programmer has to learn from ancient Egyptian occultists)** _by Chris Gutteridge_ (10min)
+  * Room 630 - **Open Source Software Communities and Why They Will Rule The World!** by _Ross Gardler_ (15 min)
+  * Room 629 - **Why Collective Intelligence"** by _Tony Hurst_ (15min)
+  * Room 624 - **[Designing with Sketches, Paper Prototypes, and Users](http://code.google.com/p/developerhappinessdays/wiki/PaperPrototypes)** by _Mark van Harmelen_ (2 X 30min <-- This is a taught class for anyone who has never done paper prototyping before)
+
+### From 11am-1pm will be the UberUsers sessions ###
+
+### Lunch will be served from 12.30 to 14.30 on a rolling basis ###
+
+## Tuesday Afternoon (10th) ##
+**This is a repeat of the morning talks.  All of them will be repeated in Room 629 (in case you missed a good'n), otherwise _it is expected that you will be getting on with your prototype for the DeveloperDecathlon_ in one of the other 6th floor rooms or in the CampBase.**
+
+  * 13.45 - **Practical Web Programming (or how to survive a JISC project)** _by Chris Gutteridge_ (20 min)
+  * 14.15 - **Agile Development** by _Grahame Klyne_ (20min)
+  * 14.45 - **Words have Power (or what the modern programmer has to learn from ancient Egyptian occultists)** _by Chris Gutteridge_ (10min)
+  * 15.15 - **Open Source Software Communities and Why They Will Rule The World!** by _Ross Gardler_ (15 min)
+  * 15.45 - **Why Collective Intelligence"** by _Tony Hurst_ (15min)
+  * 16.15 - **[Designing with Sketches, Paper Prototypes, and Users](http://code.google.com/p/developerhappinessdays/wiki/PaperPrototypes)** by _Mark van Harmelen_ (2 X 30min <-- This is a taught class for anyone who has never done paper prototyping before)
+
+## Wednesday All Day (11th) ##
+
+We still have slots open for this day so if you have any LightningTalks to give then please speak with the registration desk to get signed up.
+
+| **10am-10.30am in Lecture Theatre B33: Explanation of submission process for DeveloperDecathlon competition and [Prizes](http://code.google.com/p/developerhappinessdays/wiki/Prizes_at_dev8D)** |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+**_CampBase will be in room B02/03 and B04 throughout the day for those working on their DeveloperDecathlon prototypes._**
+
+| **Lecture Theatre B35** | **Lecture Theatre B36** |
+|:------------------------|:------------------------|
+| **10.30** - _Getting beyond PDF_ by Peter Sefton (20 min) | **10.30** - _CSS for developers_ by Nick Catto (15 min) |
+| **11.00** - _Transcoding Learning Objects_ by Ian Ibbotson (10min) | **11.00** - _No Session_|
+| **11.30** - _3 chord XSLT_ (like 3 chord Rock 'n' Roll but with angle brackets) by Peter Sefton (20 min) | **11.30** - _Linked Data and how BBC is using DBpedia_ by Georgi Kobilarov (20min)|
+| **12.00** - _SOLR_ by Ben O'Steen (25 min) | **12.00** - _Future of Web Identity_ by David Orrell (20min) |
+| **12.30** - _Django_ by Brian Jinwright (25 min) | **12.30** - _Blackboard IMS Tool Interoperability APIs_ by George Kroner (20 min)|
+
+| _13.00 - 14.00 LUNCH in B04/03/02 **[YOU MUST ORDER YOUR LUNCH FOR FRESH DELIVERY ON THIS FORM BY 10.30am OR NO FOOD FOR YOU!\_](http://spreadsheets.google.com/viewform?key=pF5wfoKZ_KIYw2F7eBwauXg)**_|
+|:|
+
+| **Lecture Theatre B35** | **Lecture Theatre B36** |
+|:------------------------|:------------------------|
+| **14.00** - Apache - Ross Gardler (15 min) | **14.00** - _[Service Management with Spring and Guice (towards DSpace 2)](http://wiki.dspace.org/index.php/DSpace_2.0/Kernel)_ by Aaron Zeckoski (20 min) |
+| **14.30** - _Semantic Web Apps_ by Julian Higman (20min) | **14.30** _My Adventures in Meta-Programming with Ruby_ by Matt Zumwalt (15min)|
+| **15.00** _[Regular Expressions](RegExps.md): Part 1 (The basics) Everything I meant to learn about regexps (but didn't get around to yet)_ by Chris Gutteridge (2 X 30min <-- special sessions see below, examples in Perl). | **15.00** -  _Sakai ReST APIs_ by Aaron Zeckoski (25 min) |
+| **15.30** _[Regular Expressions](RegExps.md): Part 2 (some clever stuff) Everything I meant to learn about regexps (but didn't get around to yet)_ by Chris Gutteridge (2 X 30min <-- special sessions see above, examples in Perl). | **15.30** -   _Sharing data: what museums have to offer, and what we can learn_ by _Mia Ridge_ (15min + discussion) |
+| **16.00** Introduction to Ruby - Tom Morris| **16.00** - _You got your Java in my Python! (Intro to Jython)_ ([sample code](http://developerhappinessdays.googlecode.com/files/jython.zip)) by Aaron Zeckoski (10 min) |
+| **16.30**  - NO SESSION | **16.30** - SESSION STILL OPEN FOR SIGN UP - SIGN UP AT THE REG DESK |
+| **17.00 END OF DAY <-- now on to the Bowl Camp !!!**|

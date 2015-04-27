@@ -1,0 +1,30 @@
+# What? #
+
+The Dragon's Den will take place throughout Thursday to provide those competing in the DeveloperDecathlon to get feedback from a mock panel of judges <- THE DRAGON'S DEN.  We'll have three judges who will give feedback on: presentation, usability and technical implications.
+
+Judges Include:
+  * Rachel Bruce will provide feedback on overall presentation
+  * Mark van Harmelen will provide feedback on usability
+  * Jim Downing will provide feedback on technical implications
+
+# Where? #
+
+The Dragon's Den will take place in Lecture Theatre B36.  You will need to wait outside in the hallway until someone comes to bring you into the room.  There will be access to a data projector and a podium to present from; where the judges will be the only people in the room to observe and feedback.
+
+# Sign-Up Here #
+
+If you would like to present your prototype idea to these judges please sign up here for a ten minute time slot (there will be 5 minutes of Q&A feedback after your presentation).  Please note, you will be stopped at ten minutes exactly so as to keep from the schedule running over.
+
+  * 11.45-12.00 Chris Gutteridge SplashURL.net
+  * 12.00-12.15 Mark Borkum, Nick Catto, Sam Easterby-Smith - Semantic Tags
+  * 12.15-12.30 David Flanders- ShipsLog
+  * LUNCH
+  * 13.30-13.45 Graham Klyne - Research Data Long Tail
+  * 13.45-14.00 Eddie Shin, Juliette Culver, Matt Zumwalt, Chris Wilper - LillyPad
+  * 14:00-14:15 Ian Morrison, Andrew Wasilczuk, Ishmal Malik - Foxy Proxy
+  * 14:15-14:30 Stephen Vickers, Michael Aherne, George Kroner - SpACE
+  * 14:30-14:45 Peter Sefton, Ian Ibbotson, Mia Ridge - LazyLecturer
+  * 14:45-15:00 Tony Hirst unCertain Reactive
+  * 15:00-15:15 Mark Dewey, Chris Yates - Group Knowlegde Search
+  * 15:15-15:30 Julian Cheal - JISC Conferenceator
+  * 15.30-15.45 John Harrison, Ross McFarlane - sh!

@@ -1,0 +1,31 @@
+Just jotting down some thoughts - come chat if you think any of this might be of interest....
+
+# Possible Prototype Response to Tom Morris Uber User Stories #
+
+
+## A UK wide community of practice space for resource sharing ##
+
+Tom described a scenaro whereby he used his personal network of friends to source a research paper to which, although he had legal access to, was unable to physically obtain. Tom also described ways in which the user community is circumventing traditional document delivery services using tools like BitTorrent and "ThePirateBay".
+
+It seems that Tom's friend was willing to supply the item (Via their own institutional document delivery system) on the basis of personal trust, taking Tom at his word that the issue was not one of licensing, but one of walk-in-access.
+
+We also discussed the problems of VLE's as walled gardens (Both for academic and administrative staff, as well as for students).
+
+This prototype might build a walled garden where authenticated users can participate in a community of practice and exchange documents. Instead of publishing streams to bit-torrent, this prototype would track the sharing of documents, whilst supporting communities of practice sharing documents. Users would be responsible for verifying on the basis of trust that the requester has the license described.
+
+Such a tool could be exposed as a widget and installed in a VLE/PRE, or just work as a do-one-job-well service. The actual document supply could even happen outside the prototype system, the COP essentially just facilitating groups of people who can (a) verify the trust in other group members and (b) share COP information about locations of resources.
+
+I guess we cold also do recommender / data mining in such a COP portal.
+
+Some example COP's might be
+
+1st year biomedical science students
+> At Institution X
+
+These systems could also integrate with delicious tags - for example, this COP is using the following delicious tags for COP resources - "BMS-1-MyInst"
+
+Cheers,
+Ian I.
+
+
+Another thought I had walking into birkbeck this morning was what would happen if we had and ISO 10161 (ILL - Inter Library Loans) responder which sat in a community of practise room instead of an institutional ILL department. Instead of routing requests for a paper to an organisations peer ISO ILL organisations, we could route requests to user communities, essentially crowd-sourcing papers from groups of researchers working in the same subject areas. Because ISO ILL already carries a max cost and preconditions fields, we could specify max-cost=0, precondition="You must already have a license to this item" and delivery info of the end user email address. Thus, we could create zero cost ILL services, as there's an incredibly good chance that researchers working in similar areas. Personal ILL.. intersting....

@@ -1,0 +1,27 @@
+# Talk Show Participants #
+
+Host: Paul Walk
+
+Debate Participants:
+  * Owen (Imperial)
+  * Matt (Media Shelf)
+  * Chewy (Google)
+  * Ben (Oxford)
+  * Ross (OSS Watch)
+  * George (Blackboard)
+
+# Items for Discussion #
+
+Do you have a topic you think needs to be be debated, then get it up here (or put it up in the comments below):
+  * The Cloud
+  * OpenID vs. Shibboleth
+  * HTML5 vs SemWebLight
+  * open standards vs. open source
+  * hosted services - good or evil?
+  * semantic web vs Semantic Web (or RDF - it'll never catch on)
+  * SOAP is spoiling my RESTlife
+  * Mom, I'm a geek
+  * Geeks on the screen - are there positive representations of geeks on film or tv?
+  * We don't need no education. Or do we? Does the UK education system do enough to support the development of geek skills, and does it need to?
+  * Which non-technical skills could geeks really benefit from some training in? (e.g. pitching ideas, documentation,priority/time-management...?)
+  * [your debate topic here](add.md)...

@@ -1,0 +1,40 @@
+### _if you need tech support ask for Dave Tarrant at the registraiton desk_ ###
+
+
+# Access Points #
+
+Based on OS here is our recommendations for which WiFi access point to use (see instructions below, especially if you are using BBK-WAM:
+  * Windows = BBK-WAM or eduroam
+  * Apple OSX = BBK-WAM or dev8D or eduroam
+  * Linux (Ubuntu) = eduroam or dev8D
+
+## BBK-WAM ##
+The "official" WiFi for the event is "BBK-WAM", however this wireless is a real pain to log onto if you are using Mac or Linux machines, so if you are using windows then it is doable so long as you keep pressing the "guest" tab.
+
+Instructions:
+  * college instructions here: http://www.bbk.ac.uk/its/services/wam/
+  * Our instructions:
+    1. click on BBK-WAM
+    1. open browser > load page > BBK default page will appear
+    1. **CLICK ON** "Guest Access" Tab > Follow instructions
+    1. Enter in guest U/P = Username: 4823 / Password: david\_Flanders <--case sensitive!
+    1. The .exe it asks you to download is checking that you have SP2
+    1. When it asks you to restart your browser watch your Wireless icon in your task bar to make sure that wifi is disconnected (you may need to turn your wireless card on and off manually)
+    1. Once it reconnects to your card, you MUST once again click on the "Guest Access" tab.
+    1. If you have too many problems give up and try one of the networks below!
+
+## Eduroam ##
+Yes we have eduroam, but again this is a real pain to set up but works well for Linux and Apple machines so it is worth the time setting this up prior to arriving.
+
+Instructions
+  * http://www.bbk.ac.uk/its/services/wam/jrs_overview
+
+
+## [SOWN](SOWN.md)dev8D ##
+When you move rooms please disconnect and reconnect to the new access point or it won't work. TECH DETAIL: The [SOWN](SOWN.md)dev8D access points do not have a bridge point.
+
+These access points are the "unoffical" WiFi for the event, and we expect that you will be well behaved when using them.  We will track machine IP so please only use for "white hat" activity.
+
+**As most people will be accessing this access point it will most likely slow down, so please do try and use BBK-WAM or Eduroam so the network will scale better.**
+
+PLEASE PUT ANY ADVICE IN THE COMMENTS SECTION BELOW!

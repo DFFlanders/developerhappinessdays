@@ -1,0 +1,39 @@
+# Introduction #
+
+"Mashups for Muppets (and Managers)" is a half day course for those of you who regularly work with developers or even have dreams of coding one day yourself.  This workshop will give you same basic principles to work by and will even get you started on your own data mashups using a spreadsheet (yes developing is this easy).  By the end of this course, you'll feel like the web is your oyster with pearls of data for the taking!
+
+workshop given by Toni Hurst of the Open University.
+
+# Outline #
+
+
+(back of the wiki doodles...)
+
+**So what is a mashup?**
+- examples of mashups we know and love
+
+**Common ingredients, recipes and utensils**
+- what sorts of ingredient make for a tasty mashup? Tasting session around cool URIs, ISBNs, latitude/longitude co-ordinates, tags, RSS/Atom (and other ovely lovely, yummy feed like things, such as JSON an OPML)
+- mashup architectures - sort of... who am I kidding..? Different ways of plugging stuff together.
+- what's that for? Widgets and tools that make mashery easier
+
+**Speedmash**
+- a demo of how to build a mashup, form scratch, in under a minute... well, under 5.. okay, 10, 10 mins max...
+Likely to use Yahoo pipes, Google spreadsheets, a map or two, some RSS, some more RSS and a hint of panic
+
+**Mashalong**
+- buildalong a mashup  - we'll walk through a mashup together, Gordon Ramsey cookalong style (I'll need a volunter up front, so bring your laptops in case your community needs YOU);
+
+**Freemash**
+- if there's time, have a tinker in groups or on your own, in a supportive ("what the &**£$@%@ are you DOING?"), helpful ("oh, for ?!@£$?% sake") environment... (Only joking...:-)**
+
+# Links #
+**A version of the slides Tony used**
+- http://www.slideshare.net/psychemedia/bcs-mashup-extended-presentation
+
+**Link to the uStream of Tony's Talk**
+- http://www.ustream.tv/recorded/1138394
+
+
+**More of Tony's presentations**
+-http://www.slideshare.net/psychemedia/slideshows

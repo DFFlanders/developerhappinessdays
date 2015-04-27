@@ -1,0 +1,24 @@
+# What is the Developer Decathlon? #
+
+The Developer Decathlon is a competition at dev8D that enables developers to come together face-to-face to do rapid prototyping of software ideas.  The emphasis is upon 'rapid' and final prototypes do not have to be working code, but rather must show the interface as it would appear to the user (note: you should also explain how that interface has/will be achieved via the technological plumbing).
+
+The amount of time allotted for the competition is a ten day sprint, i.e. at the end of the ten days, you should show what you have regardless of finished state as prizes will be given on potential as well as completeness.  Accordingly, the first main two days of the decathlon are there to help identify the user problem, design a basic interface and divide the work up amongst your team.  We help facilitate this at dev8D by providing both 'real users' and 'expert advice' on how to run these rapid prototyping sprints.
+
+**[Official prizes, rules and entry procedure are posted here.](http://docs.google.com/View?docID=dfccf5n6_225cng53tmz&revision=_latest#The_Developer_Decathlon)**
+
+# How you might run the decathlon sprint #
+Below is a suggested mock-timeline for completing your prototype competition entry.
+
+  * **Day 0 (Mon Feb 9)** Attend dev8D opening ceremony and meet other cool developers who will be helping you win the prize money!
+  * **Day 1 (Tues Feb 10)** Create some paper prototypes of app by speaking with real users at dev8D and see if they have any good ideas (or rather tell them your good ideas and get them to help you refine them), also attend LightningTalks to get good ideas that will you help create your prototypes.
+  * **Day 2 (Wed Feb 11)** Get to work on creating prototypes by claiming a CampBase for your team and outsourcing bits of work to roaming developers (paying them in tokens).  Also attend more LightningTalks to get more cool ideas.
+  * **Day 3 (Thur Feb 12)** Again work on your prototype but also take it to one of the CommunityCollaboration days (VLE, OPAC, Repo or Comm), or even better take a mock example of your prototype to the Dragon's Den to get feedback from some judges.  Don't forget to go to JISC Developer Awards Dinner at the British Museum.
+  * **Day 4 (Fri Feb 13)** Maybe go to one of the roll-your-own events, or sit in the back of the room and get on with finalising you contribution to the team.
+  * **Day 5 (Sat Feb 14)** Chill out, maybe write a little more code for your prototype, detox from week of serious learning and networking.
+  * **Day 6 (Sun Feb 15)** Still detoxing and relaxing, though you are getting a couple of more cool ideas to add to the prototype as the learning from the week has begun to sink-in.
+  * **Day 7 (Mon Feb 16)** Back at work, catch up on email.
+  * **Day 8 (Tues Feb 17)** Bring together final bits of work from other team members, add tweaks.
+  * **Day 9 (Wed Feb 18)** Record screencast using software like Jing or other and upload to video site like blip.tv
+  * **Day 10 (Thurs Feb 19)** prepare email entry and send off to developerhappinessdays@gmail.com by midnight tonight.
+
+**[Official prizes, rules and entry procedure are posted here.](http://docs.google.com/View?docID=dfccf5n6_225cng53tmz&revision=_latest#The_Developer_Decathlon)**

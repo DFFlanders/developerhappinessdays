@@ -1,0 +1,32 @@
+# What? #
+A gathering of anyone who's interested in OPACs (i.e. library catalouges), library usage data, and search technology in general (e.g. federated searching, relevancy ranking, etc).  Coders and non-coders are welcome!
+
+# When? #
+Thurs 12th Feb, 10am to 1pm
+
+# Where? #
+The OPAC CommunityCollaboration will take place in Room B02/03.
+
+# Minute Madness Sign-Up #
+We'd like to kick the session off with several "Minute Madness" presentations.  If you'd like to talk for 60 seconds about anything that's relevant to the session (e.g. something cool you've done with your OPAC, a feature you'd like to add, the top 3 reasons why your OPAC sucks, what features your ideal library resource search interface would have, etc) then please add your name underneath.  Remember, if you don't volunteer, we'll have to unleash the Press Gang on the day (and I don't mean Julia Sawalha & Dexter Fletcher ‡)
+  * Dave Pattern -- using usage data to add new features
+  * Tony Hirst -- Amazon/Greasemonkey
+
+**Bribe time -- the next 4 people to offer to do a Minute Madness get a token! Come and find me to grab your token (I'm the guy with ginger hair, ponytail, and a green t-shirt)**
+
+# Session Overview #
+We'll probably be "making it up as we go along" on the day, but here's a rough plan...
+
+  1. Introductions
+  1. Minute Madness
+  1. Freeform discussions (maybe driven by the topics covered in the Minute Madness?)
+  1. Breakout into groups to look at the main topics of interest (moving between groups will be encouraged!)
+
+# Participants' OPACs #
+
+  * [Waterford Institute of Technology Library Catalogue](http://witcat.wit.ie/) (David Kane)
+  * [University of Huddersfield Library Catalogue](http://webcat.hud.ac.uk) (Dave Pattern)
+  * [5 min vid on a prototype that allows for users to add contributions to OPAC records](http://iris.cs.man.ac.uk/EIEdemo01.mp4) (Mark van Harmelen, JISC EIE Project)
+  * _add your_ [OPAC link](http://opac.link.com/) _and_ (your name) ...
+
+‡ obligatory 1980s kids tv reference

@@ -1,0 +1,45 @@
+# Python Code Lab #
+
+This day long workshop is for anyone who wants a crash course on Python.  It will start with the basics and work its way up in to frameworks and making your code work with other systems.
+
+# Schedule #
+
+10:00-11:00 Setting up your environment (Ubuntu, Python)
+
+11:30-13:00 Developing with Python
+  * Unit Tests by Peter:
+    * Interactive session with comments by the panel and some group-inspired test-driven coding
+  * Unicode by Rob
+> > Why everyone needs to be aware of unicode, and how Python can make your life much easier.  Useful URLs:
+    * http://chardet.feedparser.org
+    * http://docs.python.org/library/codecs.html
+    * http://www.atm.ox.ac.uk/user/iwi/charmap.html
+    * http://jtauber.com/2006/02/13/pyuca.py         PLUS:
+    * http://www.unicode.org/Public/UCA/latest/allkeys.txt
+    * SLIDES: http://www.csc.liv.ac.uk/~azaroth/papers/unicode.pdf
+
+  * Python 2.x vs Python 3.x by all (Panel Dicussion)
+    * http://docs.python.org/3.0/whatsnew/3.0.html
+    * SLIDES: http://www.csc.liv.ac.uk/~azaroth/papers/python3.pdf
+
+13.00-14.00 LUNCH
+
+14.00-16.30 Frameworks and Tools
+  * [DjangoGAE](http://code.google.com/p/developerhappinessdays/wiki/DjangoGAE) by Brian
+
+> Useful URL's
+    * http://code.google.com/appengine/downloads.html - Google app engine SDK
+    * http://code.google.com/p/app-engine-patch/ - Google app engine patch
+    * eclipse.org - An IDE that does python
+  * Data Mining by Rob
+> > Discovering hidden, interesting patterns in your data!  Practical focus on several tools that you can use.  Useful URLs:
+    * http://www.csie.ntu.edu.tw/~cjlin/libsvm/
+    * http://glaros.dtc.umn.edu/gkhome/cluto/cluto/download
+    * http://fimi.cs.helsinki.fi/src/fimi01.tgz
+    * SLIDES: http://www.csc.liv.ac.uk/~azaroth/papers/datamining.pdf
+
+  * Web Services by Ben
+    * Slides and screencast examples - http://developerhappinessdays.googlecode.com/files/dev8d-presentation.pdf
+
+# Related Links #
+  * [Pre Print of O'Reilly Google App Engine Book - Python/Django](http://www.appenginelearn.com/chapters/toc.htm) (on loan from the author Dr. Chuck Severance)

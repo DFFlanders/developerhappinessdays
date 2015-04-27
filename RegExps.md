@@ -1,0 +1,22 @@
+# Introduction #
+
+Regular expressions are a handy tool in a programmers repertoire. This talk is split into two halves, you can attend either or both.
+
+## The basics (part 1) ##
+The first half will be the utter basics to get you started. I'll cover: . ? $ ^ **[.md](.md)**
+
+## Some cool regexp stuff (part 2) ##
+
+The second half will go into some more detail about more advanced techniques.
+
+## Play pen ##
+
+To support both talks I've produced a web-based play-pen for trying out the examples.
+
+http://users.ecs.soton.ac.uk/cjg/regexp/
+
+I'm assuming the most people will have lappys and wifi, so you can try out variations on the examples as we go.
+
+## Who should attend? ##
+
+This is intended for people who know little or nothing about regexps, not a master-class. By the end of it you'll be able to make use of them, but there's a whole bunch more I'll not have time to cover. I've picked a useful subset which will be of use to most programmers.
